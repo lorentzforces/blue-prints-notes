@@ -91,3 +91,20 @@ WORK ORDER BEFORE SIMON
 ARRIVES, SO JUST MAKE SURE
 THE **WEST** AND **EAST**
 LEVERS ARE OPERATIONAL.
+
+### Note found in front car seat
+
+The drop-off address is 14227 Sandy
+Heights. A small garage on the south edge
+of Trinsdale.
+
+The goods are already secure and in the
+trunk, so just unload and get back here
+before noon. I've seen Sinclair's schedule
+and I don't think he'll be requesting the
+car today but you never know when the
+cat will want to get some air.
+
+Tomorrow will likely be the last delivery
+and I believe Denny already has payment
+ready.

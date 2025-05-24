@@ -26,3 +26,5 @@ _(found in Security Room)_
 > NO LONGER REQUIRED
 > TO GRANT ENTRY
 
+_(found in a hallway)_
+> DOORS IN THE WEST WING ARE MORE LIKELY TO BE LOCKED

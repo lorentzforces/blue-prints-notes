@@ -5,15 +5,20 @@
 - What does clocking in & out do? Note says it's related to payroll
 - Does the trueness of memo colors persiste between runs, or is it different? (seen same: 2)
 - Are doors with keyholes just _potentially_ locked, and doors without keyholes never locked?
-- Does "west wing" and "east wing" just mean the left and right sides of the map, respectively? (seems like yes)(
+- Does "west wing" and "east wing" just mean the left and right sides of the map, respectively? (seems like yes, but might be the VERY left and right columns only)
 - Can garages only be drafted on the edge of the map? (i.e. columns 1 and 5)
 - Can you enter the east grounds? (private drive view AND east-side open rooms suggest this may not be possible, or at least not possible at lower ranks)
 - There is a safe in the Office
 - Model airplane in bushes outside? (west?)
+
+### Front entrance
+
+- fountain is [currently] drained, basement door below requires unique key
+
 ### Map drawing on wall
 
 - layout of house, entrance hall & antechamber are on the map
-- letter "E" at [1, 2] (has been seen 2 times nowon the wall in a room at [1, 2])
+- letter "E" at [1, 2] (has been seen 3 times now on the wall in a room at [1, 2])
 
 ### Note to "bridgette"
 
