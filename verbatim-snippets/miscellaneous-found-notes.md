@@ -121,3 +121,15 @@ _(handwritten below)_
 no **sign** has been found (yet)
 
 _("sign" is underlined in blue)_
+
+### Note in the Tomb
+
+_Found next to five coins, which is the amount spread by the tomb whenever a dead end is drafted._
+
+Each of our journeys come to a conclusion here in the tomb.
+
+This floor plan is the definitive **dead end...**
+
+or is it?
+
+_("dead end" is written in red and underlined)_

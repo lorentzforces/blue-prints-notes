@@ -5,17 +5,17 @@
 
 8  ? O ? N ?
 
-7  ? ? ? ? L
+7  ? ? A ? L
 
-6  G A T E ?
+6  G A T E S
 
-5  E ? ? ? T
+5  E I ? H T
 
-4  D ? ? E ?
+4  D A T E ?
 
 3  C R A C K
 
-2  E I G H ?
+2  E I G H T
 
 1  S A F E S
 

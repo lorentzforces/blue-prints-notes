@@ -9,6 +9,7 @@
 - How does one get water into the reserve tank in the Pump Room?
 - What happens if you spend more than 24 hours in a single day?
 - We know that there are three possible entrances to the Antechamber. The southern entrance is said to have a broken lever, although it is not clear if this refers to the broken lever item which can be found, or just an indication that the southern entrance is not functional at all. Attempts so far to path to the Antechamber with other rooms has produced blank doorways - there must be specific conditions (probably specific rooms?) in place to enter the Antechamber at all. The Greenhouse is mentioned as the location where the lever is broken, so we might try placing a Greenhouse there. (Author's note: I do not know what needs to be done to make drafting a Greenhouse possible.)
+- Data transfers from Synka?
 
 ### Front entrance
 
@@ -22,10 +23,12 @@
   - 5 oranges
 - "50 steps should be more than enough"
 
-### Clocking in & out
+### Terminals
 
-- Terminals are in Security & Laboratory rooms (and also the office?)
-- Terminal password starts with "S"
+- Terminals exist in Security, Laboratory, Shelter, and Office
+- The computer network is called "BLACKBRIDGE"
+- Email is only accessible via the terminal in the Office
+- Data transfers from Synka?
 
 ### Boudoir
 
@@ -91,6 +94,7 @@
 
 ### Freezer
 
+- Cannot be drafted the day after it is drafted.
 - Has a thermometer display when in it, likely have to raise temperature enough to unthaw items to make them accessible
 - How? Probably the boiler room or furnace? (more likely boiler since via the Laboratory we already know that the boiler room can have output directed to other rooms somehow)
 - Temperature looks like it needs to be indicating at least in the neighborhood of 17-18 C to "fully" thaw.
@@ -107,3 +111,22 @@
 ### Root Cellar
 
 - root cellar has a family tree of Mary Epsen and her ancestors
+
+### Boiler Room
+
+Can interact with:
+- Laboratory
+- Garage
+- Laundry Room
+- Furnace
+- Pump Room
+
+### Pump Room
+
+Can interact with:
+- Pool
+- Aquarium
+- Greenhouse
+- Kitchen (although this seems to have no meaningful effect)
+- Reservoir
+- Fountain
