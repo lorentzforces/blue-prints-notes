@@ -1,6 +1,6 @@
 ### Dark room note
 
-> Found with the recurring portrait of a woman and a picture of a peach tree grove with a fence in front, with a heart carved into the trunk of a tree in the foreground. The heart has letters within it, but they are illegible.
+> Found with the recurring portrait of a woman and a picture of a apple tree grove with a fence in front, with a heart carved into the trunk of a tree in the foreground. The heart has letters within it, but they are illegible.
 
 print notes
 
@@ -55,3 +55,39 @@ ELECTRONIC MAIL
 TO THE ADDRESS
 CLIENT HAS
 PROVIDED
+
+### Note in office desk drawer
+
+BRIDGETTE,
+PLEASE CHECK IF ANY BOOKS
+MATCHING THESE TITLES ARE
+AVAILABLE FOR PURCHASE IN
+REDDINGTON.
+
+> _note: all below titles are written in red except for "march of the count"
+
+FLIGHT OF THE QUEEN
+**MARCH OF THE COUNT**
+FALL OF THE LORD
+PASSING OF THE BARONS
+HERRINGS OF THE MAJOR
+
+HAD A LITTLE TROUBLE READING
+THE BARON'S WRITING, SO I AM
+NOT SURE IF THE LAST TITLE IS
+INTENDED TO BE HEARINGS OR
+HERRINGS, BUT KNOWING HERBERT
+I SUSPECT EITHER WOULD BE
+SUITABLE.
+
+### Note on office desk about Antechamber levers
+
+THE ANTECHAMBER LEVER
+IN THE GREENHOUSE IS BROKEN **AGAIN.**
+
+I DON'T THINK THERE IS ENOUGH
+TIME TO PUT IN ANOTHER
+WORK ORDER BEFORE SIMON
+ARRIVES, SO JUST MAKE SURE
+THE **WEST** AND **EAST**
+LEVERS ARE OPERATIONAL.

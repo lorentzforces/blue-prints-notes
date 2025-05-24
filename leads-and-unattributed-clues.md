@@ -4,13 +4,12 @@
 
 - What does clocking in & out do? Note says it's related to payroll
 - Does the trueness of memo colors persiste between runs, or is it different? (seen same: 2)
-- Combination to boudoir safe
 - Are doors with keyholes just _potentially_ locked, and doors without keyholes never locked?
-- Does "west wing" and "east wing" just mean the left and right sides of the map, respectively?
+- Does "west wing" and "east wing" just mean the left and right sides of the map, respectively? (seems like yes)(
 - Can garages only be drafted on the edge of the map? (i.e. columns 1 and 5)
+- Can you enter the east grounds? (private drive view AND east-side open rooms suggest this may not be possible, or at least not possible at lower ranks)
 - There is a safe in the Office
 - Model airplane in bushes outside? (west?)
-
 ### Map drawing on wall
 
 - layout of house, entrance hall & antechamber are on the map
@@ -81,7 +80,7 @@ Clocks: they do advance
 - Car license plate: `SWNSNG`
 - When power is on, door can be opened for access to the outer grounds
 
-### Grounds
+### West Grounds
 
 - Entered at: rank 4
 
@@ -107,8 +106,7 @@ There is a hamster.
 
 ### Commissary
 
-- Drawing: Hand with pencil drawing globe (post-it note: "with?")
-- Drawing: Biplane (post-it-note: "without?")
+- each day has two drawings: one with a post-it-note saying "with?" and another one with a note saying "without?"
 
 ### Lavatory
 
@@ -126,3 +124,13 @@ There is a hamster.
 
 - Lose 2 steps whenever entering
 - Turning power off removes this downside
+
+### Campsite
+
+- Apple trees and fence are here, fence has 4-digit combination lock
+- Tree with heart carved on it from picture is cut down
+- Stripey mine entrance doors
+
+### Drawing Room
+
+- Has a safe
