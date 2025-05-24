@@ -9,15 +9,15 @@
 
 6  G A T E ?
 
-5  E ? ? ? ?
+5  E ? ? ? T
 
-4  D ? ? ? ?
+4  D ? ? E ?
 
-3  C R A ? K
+3  C R A C K
 
-2  E ? G H ?
+2  E I G H ?
 
-1  ? A F E S
+1  S A F E S
 
    1 2 3 4 5
 ```

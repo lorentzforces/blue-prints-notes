@@ -108,3 +108,16 @@ cat will want to get some air.
 Tomorrow will likely be the last delivery
 and I believe Denny already has payment
 ready.
+
+### Newspaper clipping in Root Cellar
+
+> #### SEARCH CONTINUES
+> ...author and illustrator whose fanciful stories...
+> ...name Marion Marigold, wwas last seen by a...
+> ...m Friday getting into a carriage after a late
+
+_(handwritten below)_
+
+no **sign** has been found (yet)
+
+_("sign" is underlined in blue)_

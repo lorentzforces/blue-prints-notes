@@ -103,3 +103,7 @@
 
 - checkout system is another "holdover" mechanic where the results is available after the end of that day
 - should check if different selections of books are available on different days, try to get books from the note found in the Office
+
+### Root Cellar
+
+- root cellar has a family tree of Mary Epsen and her ancestors

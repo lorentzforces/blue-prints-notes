@@ -10,6 +10,8 @@ When talking about room coordinates, we'll index from 1 and [1, 1] will be the l
 
 ### Facts
 
+The day starts at 0800.
+
 Blue memos = true, Red memos = false (unless written by hand).
 
 > _NOTE:_ This does not imply the _opposite_ of a red memo's statement, just that it is _not true._
