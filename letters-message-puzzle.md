@@ -28,7 +28,9 @@ Each room has a pair of artwork produced for it. These pieces will depict items 
 
 For example: when creating this document, I was in the Study at [4, 8], and the pictures therein were a CROWN and a CROW. Therefore "N" has been filled in at that location in the above message solution.
 
-Not all rooms have a pair of art pieces in them. Which rooms have them is currently not tracked, but it may be simply only "blue" rooms.
+The solutions may be slightly obtuse for the sake of making a convenient pair of words. For example: a rowboat and a crow were "crow" and "row" resulting in "C".
+
+Not all rooms have a pair of art pieces in them. This is more common for certain kinds of room (hallway, standard room, bedroom), but this is a general trend and not a fast rule.
 
 ### Notes in the study
 
