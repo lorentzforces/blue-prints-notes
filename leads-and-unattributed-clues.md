@@ -7,7 +7,7 @@
 - Model airplane in bushes outside? (west?)
 - How does one get water into the reserve tank in the Pump Room?
 - What happens if you spend more than 24 hours in a single day?
-- We know that there are three possible entrances to the Antechamber. The southern entrance is said to have a broken lever, although it is not clear if this refers to the broken lever item which can be found, or just an indication that the southern entrance is not functional at all. Attempts so far to path to the Antechamber with other rooms has produced blank doorways - there must be specific conditions (probably specific rooms?) in place to enter the Antechamber at all. The Greenhouse is mentioned as the location where the lever is broken, so we might try placing a Greenhouse there. (Author's note: I do not know what needs to be done to make drafting a Greenhouse possible.)
+- We know that there are three possible entrances to the Antechamber. The southern entrance is said to have a broken lever, and the direction of the lever (e.g. "south lever," "west lever") corresponds to the Antechamber entrance that lever operates. Attempts so far to path to the Antechamber with other rooms has produced blank doorways - there must be specific conditions (probably specific rooms?) in place to enter the Antechamber at all.
 - Data transfers from Synka?
 - The Blackbridge Grotto requires an "admin key" which I do not yet know
 
@@ -57,6 +57,7 @@
 
 - Car license plate: `SWNSNG`
 - When power is on, door can be opened for access to the outer grounds
+- The car keys unlock the boot, which contains a battery and the Secret Garden key
 
 ### West Grounds
 
@@ -144,3 +145,9 @@ Stained glass windows:
 - maid, broom facing up (V)
 - riding girl, crop facing up (VI)
 - angel/knight, scepter facing up (VII)
+
+### Greenhouse
+
+The greenhouse contains a broken lever which appears to be marked as the "south" one.
+
+The greenhouse appears to be able to grow plants which produce gems.

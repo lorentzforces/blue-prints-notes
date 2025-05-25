@@ -1,11 +1,11 @@
 # The Message Spelled Out With Letters Thing
 
 ```
-9  I F - ? A
+9  I F - W A
 
 8  ? O U N T
 
-7  ? ? A L L
+7  ? M A L L
 
 6  G A T E S
 

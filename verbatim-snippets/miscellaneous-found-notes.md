@@ -29,13 +29,25 @@ Sale "up to 50% off" day 20 & 21
 
 _Found in Workshop_
 
-> Musical staff notation is ommitted
+> Musical staff notation is omitted
 
 Stones cut by hand, and letters wrought
 Do spell our secrets carved from thought,
 A **message*** read is often lost
 Among the bold words, spoken soft,
 The note is read, the letter is not
+
+### Music sheet: "5"
+
+_Found in Greenhouse_
+
+> Musical staff notation is omitted
+
+Trees found inside will never shade
+The gems that shine in night and rain,
+The clue you hold can not be paid
+With gems nor coin, tso toss away,
+These **sheets** you find a worthy trade
 
 ### Utility room fusebox
 
