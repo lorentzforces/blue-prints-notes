@@ -34,11 +34,12 @@ Terminal locations:
 - Blackbridge Grotto (special admin terminal)
 
 Known safe locations:
-- Boudoir (opened, contains gem and letter #4)
+- Boudoir (opened with 1225, contains gem and letter #4)
 - Study (locked, combination)
 - Office (locked, combination)
 - Drawing Room (locked, combination)
 - Shelter (time-lock, contains gem and letter #7)
+- Apple Orchard (opened with 1128, technically a gate, technically still counts)
 
 There is a hamster in the Bunk Room.
 

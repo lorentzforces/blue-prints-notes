@@ -7,6 +7,7 @@
 - What happens if you spend more than 24 hours in a single day?
 - We know that there are three possible entrances to the Antechamber. The southern entrance is said to have a broken lever, and the direction of the lever (e.g. "south lever," "west lever") corresponds to the Antechamber entrance that lever operates. Attempts so far to path to the Antechamber with other rooms has produced blank doorways - there must be specific conditions (probably specific rooms?) in place to enter the Antechamber at all.
 - Data transfers from Synka? (mentioned in terminals)
+- What can you build with a broken lever, a battery, and a sledgehammer?
 
 ### Current open access problems
 
@@ -17,12 +18,6 @@
 - Terminal in Blackbridge Grotto requires an "admin key" to log in
 - Door in Blackbridge Grotto seems to want a microchip, but the microchip that begins there can also be moved?
 - Stripey mine(?) entrance doors near the Apple Orchard
-
-### Boudoir
-
-- There is a safe (free gem)
-  - combination was 1225 (Christmas Day, safe was a gift
-  - contained letter (red, with "4" on the front) from Daniel admonishing Herbert for his treatment of Marion's (mom??) death (she was a rebel?)
 
 ### Utility Closet
 

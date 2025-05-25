@@ -3,9 +3,9 @@
 ```
 9  I F - W A
 
-8  ? O U N T
+8  C O U N T
 
-7  ? M A L L
+7  S M A L L
 
 6  G A T E S
 
@@ -21,6 +21,8 @@
 
    1 2 3 4 5
 ```
+
+> _"W A" is probably "W E" and I messed it up_
 
 ### Working theory
 
