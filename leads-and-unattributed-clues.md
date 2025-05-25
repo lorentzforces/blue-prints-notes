@@ -5,16 +5,14 @@
 - Are doors with keyholes just _potentially_ locked, and doors without keyholes never locked?
 - How does one get water into the reserve tank in the Pump Room?
 - What happens if you spend more than 24 hours in a single day?
-- We know that there are three possible entrances to the Antechamber. The southern entrance is said to have a broken lever, and the direction of the lever (e.g. "south lever," "west lever") corresponds to the Antechamber entrance that lever operates. Attempts so far to path to the Antechamber with other rooms has produced blank doorways - there must be specific conditions (probably specific rooms?) in place to enter the Antechamber at all.
 - Data transfers from Synka? (mentioned in terminals)
 - What can you build with a broken lever, a battery, and a sledgehammer?
+- The Schoolhouse adds 8 Classrooms to the deck, with each grade level providing a hint. Probably want to maximize these at some point to get as much info as possible.
+- The insurgent group that these people seemed to be a part of was called "The Children of Black Water," which seems to be a parallel name to "Blackbridge" being the network and grotto name. Their group is also called RLCF - what does that stand for?
 
 ### Current open access problems
 
-- Basement door in Fountain (locked, requires unique key, requires fountain to be drained)
-- Basement door in Reservoir room (locked, no message about key)
-- How to get to other parts of the Abandoned Mine gear-platform room
-- How to access the Secret Garden (key is available via car boot in Garage w/ car keys)
+- How to get to other parts of the Abandoned Mine gear-platform room (seems to be Reservoir via the boat, which requires a lower water level)
 - Terminal in Blackbridge Grotto requires an "admin key" to log in
 - Door in Blackbridge Grotto seems to want a microchip, but the microchip that begins there can also be moved?
 - Stripey mine(?) entrance doors near the Apple Orchard
@@ -123,4 +121,32 @@ The greenhouse appears to be able to grow plants which produce gems.
 - Abandoned Mines is accessible from the door with an arrow (back to the left), has an open round area with eight hallways, of which you enter in one. A cogged platform in the middle seems to be able to spin, and can connect two hallways which are separated by two other hallways (i.e. gear with 8 cogs has longer cogs on cog 1 and cog 4)
 - A second gear below the immediately visible one suggests that the entire assembly can be raised, making one gear capable of connection two of eight hallways on the _upper_ level and the bottom one capable of connecting the bottom hallways.
 - Following further enters the Reservoir, which at full height has an inaccessible boat. Accessing the boat likely requires a specific amount of water to be drained from the Reservoir.
-- Beyond the Reservoir is a door to the Basement. The door is locked. (may require a special key?)
+- Beyond the Reservoir is the Basement Door which provides access via the drained fountain regardless of whether the Tomb is present.
+
+### Classroom
+
+- requires Schoolhouse outer room to be in draft pool
+- every student's favorite color is red?
+- **GRADE 1:** Color worksheet (no idea if this is important, but WHO KNOWS) correct key:
+  - wagon: red
+  - hydrant: red
+  - flag with heart: orange
+  - pumpkin: orange
+  - bananas: yellow
+  - map: yellow
+  - lizard: green
+  - broccoli: green
+  - flag with mountain: blue
+  - pond: blue
+  - flag with hourglass: purple
+  - grapes: purple
+- **GRADE 2:** Math worksheet (guide to Billiard Room puzzle)
+
+### Secret Garden
+
+- access by using the Secret Garden key on a door leading to the East or West wing (unclear if East & West variants are at all different)
+- there is a suspicious door-looking indentation in the brick wall
+
+### Foundation
+
+- There is an elevator above an open shaft with a throw-switch in it, but the elevator is lifted up high and is inaccessible. How does this become accessible?

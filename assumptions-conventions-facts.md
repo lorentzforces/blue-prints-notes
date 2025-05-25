@@ -16,6 +16,8 @@ There are 8 envelopes with 8 individual authors. One letter is missing.
 
 The day starts at 0800. Day 1 is Friday, November 6th 1993.
 
+1 hour in game = 7.5 minutes in real-time. Allowing the clock to run past 0800 does not automatically end your day.
+
 Blue memos = true, Red memos = false (unless written by hand).
 
 Green memos found in Hartley's room are always false.
@@ -41,6 +43,11 @@ Known safe locations:
 - Shelter (time-lock, contains gem and letter #7)
 - Apple Orchard (opened with 1128, technically a gate, technically still counts)
 
+Antechamber Lever locations:
+- SOUTH: Greenhouse (requires broken lever item)
+- WEST: Secret Garden
+- EAST: --UNKNOWN--
+
 There is a hamster in the Bunk Room.
 
 Known red room downside quirks:
@@ -59,7 +66,7 @@ The following rooms can only be drafted in the East & West Wings:
 - Veranda
 - Morning Room
 - Greenhouse
-- Secret Garden
+- Secret Garden (must use the Secret Garden Key to unlock a locked door)
 
 **Soil Survey:**
 

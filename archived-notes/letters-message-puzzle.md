@@ -1,7 +1,7 @@
 # The Message Spelled Out With Letters Thing
 
 ```
-9  I F - W A
+9  I F - W E
 
 8  C O U N T
 
@@ -21,8 +21,6 @@
 
    1 2 3 4 5
 ```
-
-> _"W A" is probably "W E" and I messed it up_
 
 ### Working theory
 
