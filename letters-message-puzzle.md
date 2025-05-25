@@ -9,9 +9,9 @@
 
 6  G A T E S
 
-5  E I ? H T
+5  E I G H T
 
-4  D A T E ?
+4  D A T E S
 
 3  C R A C K
 

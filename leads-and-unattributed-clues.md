@@ -90,7 +90,6 @@
 ### Laboratory
 
 - Experiments can alter conditions (seems to usually be an "when X then Y" type of arrangement
-- Machine in laboratory needs boiler room energy. See [the laboratory elements clue](./laboratory-elements-puzzle.md) for at least one hint towards operation of that machine.
 
 ### Freezer
 
@@ -130,3 +129,7 @@ Can interact with:
 - Kitchen (although this seems to have no meaningful effect)
 - Reservoir
 - Fountain
+
+### Blackbridge Grotto
+
+Can use one offline terminal per day.

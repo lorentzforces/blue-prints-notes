@@ -14,7 +14,7 @@ You are Simon P. Jones.
 
 There are 8 envelopes with 8 individual authors. One letter is missing.
 
-The day starts at 0800.
+The day starts at 0800. Day 1 is Friday, November 6th 1993.
 
 Blue memos = true, Red memos = false (unless written by hand).
 
@@ -25,11 +25,11 @@ Garages can only be drafted in the west wing.
 The terminal password is `swansong`.
 
 Known safe locations:
-- Boudoir (opened, contains gem)
+- Boudoir (opened, contains gem and letter #4)
 - Study (locked, combination)
 - Office (locked, combination)
 - Drawing Room (locked, combination)
-- Shelter (time-lock)
+- Shelter (time-lock, contains gem and letter #7)
 
 There is a hamster in the Bunk Room.
 
