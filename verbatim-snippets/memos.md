@@ -24,3 +24,8 @@ _(found in a hallway)_
 
 _(found in Laboratory)_
 > EFFECTIVE IMMEDIATELY, **ELECTRONIC MAIL** CAN ONLY BE ACCESSED VIA THE SECURITY TERMINAL.
+
+### Green memos
+
+_(Found in the Servant's Quarters, likely Hartley's room. This implies that this statement is false.)_
+> THERE ARE TWELVE MAJOR KEYS
