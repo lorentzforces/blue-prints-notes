@@ -133,3 +133,13 @@ This floor plan is the definitive **dead end...**
 or is it?
 
 _("dead end" is written in red and underlined)_
+
+### Post-it in Blackbridge Grotto
+
+```
+I
+
+I
+0
+0
+```

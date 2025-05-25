@@ -2,7 +2,6 @@
 
 ### Unanswered Questions
 
-- What does clocking in & out do? Note says it's related to payroll
 - Are doors with keyholes just _potentially_ locked, and doors without keyholes never locked?
 - Can you enter the east grounds? (private drive view AND east-side open rooms suggest this may not be possible, or at least not possible at lower ranks)
 - Model airplane in bushes outside? (west?)
@@ -10,6 +9,7 @@
 - What happens if you spend more than 24 hours in a single day?
 - We know that there are three possible entrances to the Antechamber. The southern entrance is said to have a broken lever, although it is not clear if this refers to the broken lever item which can be found, or just an indication that the southern entrance is not functional at all. Attempts so far to path to the Antechamber with other rooms has produced blank doorways - there must be specific conditions (probably specific rooms?) in place to enter the Antechamber at all. The Greenhouse is mentioned as the location where the lever is broken, so we might try placing a Greenhouse there. (Author's note: I do not know what needs to be done to make drafting a Greenhouse possible.)
 - Data transfers from Synka?
+- The Blackbridge Grotto requires an "admin key" which I do not yet know
 
 ### Front entrance
 
@@ -84,7 +84,7 @@
 ### Campsite
 
 - Apple trees and fence are here, fence has 4-digit combination lock
-- Tree with heart carved on it from picture is cut down
+- Picture with standing tree has "11-28" carved in it
 - Stripey mine entrance doors
 
 ### Laboratory
@@ -133,3 +133,14 @@ Can interact with:
 ### Blackbridge Grotto
 
 Can use one offline terminal per day.
+
+### Chapel
+
+Stained glass windows:
+- farmer girl, hoe facing up (I)
+- cook, shovel(?) facing up (II)
+- ranch girl, pitchfork facing up (III)
+- chimney sweep(?), duster facing up (IV)
+- maid, broom facing up (V)
+- riding girl, crop facing up (VI)
+- angel/knight, scepter facing up (VII)

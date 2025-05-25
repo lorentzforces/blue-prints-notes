@@ -18,6 +18,8 @@ The day starts at 0800. Day 1 is Friday, November 6th 1993.
 
 Blue memos = true, Red memos = false (unless written by hand).
 
+Green memos found in Hartley's room are always false.
+
 > _NOTE:_ This does not imply the _opposite_ of a red memo's statement, just that it is _not true._
 
 Garages can only be drafted in the west wing.
@@ -42,3 +44,39 @@ Box game invariants:
 - at LEAST one box label is true
 - at LEAST one box label is false
 - ONLY one box is not empty
+
+The following rooms can only be drafted in the East & West Wings:
+- Terrace
+- Patio
+- Veranda
+- Morning Room
+- Greenhouse
+- Secret Garden
+
+**Soil Survey:**
+
+These values affect amount of fruit spread from gardens and amount of flowers that can bloom in a Greenhouse.
+
+1=poor, 2=good, 3=rich, X=barren
+
+```
+9  1   3
+
+8  2   2
+
+7  2   3
+
+6  2   1
+
+5  1   2
+
+4  1   3
+
+3  3   2
+
+2  X   2
+
+1  1   1
+
+   1   5
+```

@@ -5,3 +5,7 @@
 - sledgehammer
 - broken lever
 - ???
+
+- broken lever
+- battery pack
+- ???

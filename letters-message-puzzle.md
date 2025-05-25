@@ -3,9 +3,9 @@
 ```
 9  I F - ? ?
 
-8  ? O ? N T
+8  ? O U N T
 
-7  ? ? A ? L
+7  ? ? A L L
 
 6  G A T E S
 
