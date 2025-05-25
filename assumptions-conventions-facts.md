@@ -22,9 +22,16 @@ Green memos found in Hartley's room are always false.
 
 > _NOTE:_ This does not imply the _opposite_ of a red memo's statement, just that it is _not true._
 
-Garages can only be drafted in the west wing.
+Garages can only be drafted in the west wing. The Garage allows access to the West Grounds if the breaker box power is turned on.
 
-The terminal password is `swansong`.
+The basic terminal password is `swansong`.
+
+Terminal locations:
+- Security
+- Laboratory
+- Shelter
+- Office (email only accessible from here)
+- Blackbridge Grotto (special admin terminal)
 
 Known safe locations:
 - Boudoir (opened, contains gem and letter #4)

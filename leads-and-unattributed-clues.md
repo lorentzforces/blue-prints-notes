@@ -3,32 +3,20 @@
 ### Unanswered Questions
 
 - Are doors with keyholes just _potentially_ locked, and doors without keyholes never locked?
-- Can you enter the east grounds? (private drive view AND east-side open rooms suggest this may not be possible, or at least not possible at lower ranks)
-- Model airplane in bushes outside? (west?)
 - How does one get water into the reserve tank in the Pump Room?
 - What happens if you spend more than 24 hours in a single day?
 - We know that there are three possible entrances to the Antechamber. The southern entrance is said to have a broken lever, and the direction of the lever (e.g. "south lever," "west lever") corresponds to the Antechamber entrance that lever operates. Attempts so far to path to the Antechamber with other rooms has produced blank doorways - there must be specific conditions (probably specific rooms?) in place to enter the Antechamber at all.
-- Data transfers from Synka?
-- The Blackbridge Grotto requires an "admin key" which I do not yet know
+- Data transfers from Synka? (mentioned in terminals)
 
-### Front entrance
+### Current open access problems
 
-- fountain is [currently] drained, basement door below requires unique key
-
-### Note to "bridgette"
-
-- calls for an "even spread" for the guest, which may imply that the number of fruits found in a given run is finite?
-  - 5 apples
-  - 5 bananas
-  - 5 oranges
-- "50 steps should be more than enough"
-
-### Terminals
-
-- Terminals exist in Security, Laboratory, Shelter, and Office
-- The computer network is called "BLACKBRIDGE"
-- Email is only accessible via the terminal in the Office
-- Data transfers from Synka?
+- Basement door in Fountain (locked, requires unique key, requires fountain to be drained)
+- Basement door in Reservoir room (locked, no message about key)
+- How to get to other parts of the Abandoned Mine gear-platform room
+- How to access the Secret Garden (key is available via car boot in Garage w/ car keys)
+- Terminal in Blackbridge Grotto requires an "admin key" to log in
+- Door in Blackbridge Grotto seems to want a microchip, but the microchip that begins there can also be moved?
+- Stripey mine(?) entrance doors near the Apple Orchard
 
 ### Boudoir
 
@@ -40,6 +28,8 @@
 
 - Can toggle off keycard system
 - Light puzzle: "V.A.C. indicators" (see note)
+  - Email: white indicator only shown after syncing all 6 indicators to purple
+  - Correct sequence is: off, blue, green, white, red, purple
 - Unclear what the VAC light puzzle affects
 - Four breaker switch locations
   - Gymnasium (power off removes the penalty for entering)
@@ -47,21 +37,9 @@
   - Garage (power on allows the door to open, allowing access to the west grounds)
   - Cabinet (crossed out and no switch present)
 
-### Dark Room
-
-- Contains note talking about a request to develop specific pictures
-- Note references an "enlarged print of the enclosed photograph," which does not appear to be the picture which appears behind the note. The central table in the darkroom features a picture of Sinclair with a camera, and a blown-up feature of just the camera. The camera is labeled "Synka Co," and the room appears to have a bathtub in it.
-- There are several versions of a picture featuring maids in various levels of overexposure
-
 ### Garage
 
-- Car license plate: `SWNSNG`
-- When power is on, door can be opened for access to the outer grounds
 - The car keys unlock the boot, which contains a battery and the Secret Garden key
-
-### West Grounds
-
-- Entered from Garage at rank 4
 
 ### Shelter (outer room)
 
@@ -84,7 +62,6 @@
 
 ### Campsite
 
-- Apple trees and fence are here, fence has 4-digit combination lock
 - Picture with standing tree has "11-28" carved in it
 - Stripey mine entrance doors
 
@@ -99,14 +76,10 @@
 - How? Probably the boiler room or furnace? (more likely boiler since via the Laboratory we already know that the boiler room can have output directed to other rooms somehow)
 - Temperature looks like it needs to be indicating at least in the neighborhood of 17-18 C to "fully" thaw.
 
-### Maid's Chamber
-
-- Note here says staff must vacate by Friday, November 6th. This may imply that day 1 is Saturday, November 7th.
-
 ### Library
 
 - checkout system is another "holdover" mechanic where the results is available after the end of that day
-- should check if different selections of books are available on different days, try to get books from the note found in the Office
+- book selection menu appears to be the same no matter what
 
 ### Root Cellar
 
@@ -133,21 +106,26 @@ Can interact with:
 
 ### Blackbridge Grotto
 
-Can use one offline terminal per day.
-
-### Chapel
-
-Stained glass windows:
-- farmer girl, hoe facing up (I)
-- cook, shovel(?) facing up (II)
-- ranch girl, pitchfork facing up (III)
-- chimney sweep(?), duster facing up (IV)
-- maid, broom facing up (V)
-- riding girl, crop facing up (VI)
-- angel/knight, scepter facing up (VII)
+Can use one offline terminal per day. (currently inaccessible)
 
 ### Greenhouse
 
 The greenhouse contains a broken lever which appears to be marked as the "south" one.
 
 The greenhouse appears to be able to grow plants which produce gems.
+
+### Catacombs
+
+- Accessible via Tomb after manipulating the angel statues in this order:
+  - farmer, hoe (I)
+  - cook, shovel (II)
+  - ranch, pitchfork (III)
+  - chimney sweep, duster (IV)
+  - maid, broom (V)
+  - rider, crop (VI)
+  - knight, scepter (VII)
+- See catacombs map screenshots in the images directory.
+- Abandoned Mines is accessible from the door with an arrow (back to the left), has an open round area with eight hallways, of which you enter in one. A cogged platform in the middle seems to be able to spin, and can connect two hallways which are separated by two other hallways (i.e. gear with 8 cogs has longer cogs on cog 1 and cog 4)
+- A second gear below the immediately visible one suggests that the entire assembly can be raised, making one gear capable of connection two of eight hallways on the _upper_ level and the bottom one capable of connecting the bottom hallways.
+- Following further enters the Reservoir, which at full height has an inaccessible boat. Accessing the boat likely requires a specific amount of water to be drained from the Reservoir.
+- Beyond the Reservoir is a door to the Basement. The door is locked. (may require a special key?)
