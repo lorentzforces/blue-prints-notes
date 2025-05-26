@@ -7,7 +7,7 @@
 | Orchard      | 1128        | N/A    | Gate to Orchard                                   |
 | Study        |             |        |                                                   |
 | Office       |             |        |                                                   |
-| Drawing Room |             |        |                                                   |
+| Drawing Room | 0415        | #6     | Women w/ small "gaits" + men w/ same              |
 | (presumed)   |             |        |                                                   |
 | (presumed)   |             |        |                                                   |
 
