@@ -56,7 +56,7 @@ _Found in Music Room_
 > Musical staff notation is omitted
 
 The ones of you who oft assume
-That you alone cna solve this tune,
+That you alone can solve this tune,
 Are likely going to get your due
 And all the rage that will ensue
 While working **on** this simple clue

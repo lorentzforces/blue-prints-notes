@@ -19,6 +19,7 @@
 - Terminal in Blackbridge Grotto requires an "admin key" to log in
   - First four letters of last name followed by first initial, 1st and 5th character capitalized)
   - Login has been given to "Mr. Ruota," found in Hartley's room (servant's quarters)
+  - Hypothesis: "RoutH" (INCORRECT)
 - Door in Blackbridge Grotto seems to want a microchip, but the microchip that begins there can also be moved?
 - the Precipice has an uninteractable, closed door
 - In Basement (hallway 9 on map) red door with electronic box attached
@@ -186,3 +187,8 @@ Colors/operators
 ### Basement
 
 - Business card with teapot depicted on stand, "Hundred Bells" over it, handwritten note says "Sandy Heights 5 PM"
+
+### List of Staff
+
+- ? Babbage
+- ? Routa
