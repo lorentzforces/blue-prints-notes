@@ -13,9 +13,10 @@
 ### Current open access problems
 
 - How to get to other parts of the Abandoned Mine gear-platform room (seems to be Reservoir via the boat, which requires a lower water level)
+- The basement door at the bottom of the Foundation elevator needs a Basement Key
 - Terminal in Blackbridge Grotto requires an "admin key" to log in
 - Door in Blackbridge Grotto seems to want a microchip, but the microchip that begins there can also be moved?
-- Stripey mine(?) entrance doors near the Apple Orchard
+- the Precipice has an uninteractable, closed door
 
 ### Utility Closet
 
@@ -150,3 +151,54 @@ The greenhouse appears to be able to grow plants which produce gems.
 ### Foundation
 
 - There is an elevator above an open shaft with a throw-switch in it, but the elevator is lifted up high and is inaccessible. How does this become accessible?
+
+### The Precipice
+
+Chess puzzle:
+
+| Pawn      | Knight    | Bishop    | Rook      | Queen     | King      |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Den       | Obsrvatry | Chapel    | Nook      |           |           |
+| Storeroom |           |           |           |           |           |
+| Scrt Pass |           |           |           |           |           |
+| Parlour   |           |           |           |           |           |
+| Nursery   |           |           |           |           |           |
+| Drwing Rm |           |           |           |           |           |
+| WlkInClst |           |           |           |           |           |
+
+### Sigils
+
+Core (denotes countries)
+- Raffle ticket: Orin---
+- Pentagon: Fe---
+- Hourglass: E[rn]---
+- Stocky V: Co[rnm]---
+- Peaky crown: A[rnm]---
+
+Rays/Dividing Lines
+- Wavy lines: heat
+- Three vertical lines: rainy
+- Jagged line: stormy
+- Falling circles (look like anal beads): snow
+- Bent/curved lines: windy
+- Lines with telephone-pole-like crosses at the end: fog
+
+Motes
+- Asterisk: Tribal
+- Bean: Agricultural
+- Cartoon fang triangles: Martial
+- Cut-corner building: Metropolitan
+- Three vertical lines: Academic
+- Square with dot: Industrial
+- Pie with dots: Spiritual
+- Flower: Poetic
+
+Border
+- Empty circles: white
+- Filled circles: black
+- Diagonal wavy lines: red
+- Horizontal/vertical alternating: violet
+- Cogged line: pink
+- Diagonal straight lines: green
+- Zigzag: yellow
+- Empty triangles: orange
