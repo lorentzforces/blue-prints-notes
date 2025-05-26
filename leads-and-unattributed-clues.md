@@ -159,12 +159,13 @@ Chess puzzle:
 | Pawn      | Knight    | Bishop    | Rook      | Queen     | King      |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Den       | Obsrvatry | Chapel    | Nook      |           |           |
-| Storeroom |           |           |           |           |           |
+| Storeroom | Security  |           |           |           |           |
 | Scrt Pass |           |           |           |           |           |
 | Parlour   |           |           |           |           |           |
 | Nursery   |           |           |           |           |           |
 | Drwing Rm |           |           |           |           |           |
 | WlkInClst |           |           |           |           |           |
+| Bedroom   |           |           |           |           |           |
 
 ### Sigils
 
