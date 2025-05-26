@@ -9,6 +9,8 @@
 - What can you build with a broken lever, a battery, and a sledgehammer?
 - The Schoolhouse adds 8 Classrooms to the deck, with each grade level providing a hint. Probably want to maximize these at some point to get as much info as possible.
 - The insurgent group that these people seemed to be a part of was called "The Children of Black Water," which seems to be a parallel name to "Blackbridge" being the network and grotto name. Their group is also called RLCF - what does that stand for?
+- Who the fuck is Samantha Hayes?
+  - a.k.a Marion Matthew Jones neé Epsen(?) _a.k.a._ Marion Marigold
 
 ### Current open access problems
 
@@ -158,8 +160,8 @@ Chess puzzle:
 
 | Pawn      | Knight    | Bishop    | Rook      | Queen     | King      |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| Den       | Obsrvatry | Chapel    | Nook      |           |           |
-| Storeroom | Security  |           |           |           |           |
+| Den       | Obsrvatry | Chapel    | Nook      |           | Office    |
+| Storeroom | Security  |           | Vault     |           |           |
 | Scrt Pass |           |           |           |           |           |
 | Parlour   |           |           |           |           |           |
 | Nursery   |           |           |           |           |           |
@@ -169,12 +171,13 @@ Chess puzzle:
 
 ### Sigils
 
-Core (denotes countries)
-- Raffle ticket: Orin---
-- Pentagon: Fe---
-- Hourglass: E[rn]---
+Core (denotes countries, first three countries are the currently-existing ones)
+- Pentagon: Fenn Aries
+- Peaky crown: Arch Aries (northern, associated with storms?)
+- Hourglass: Eraja (southern)
+- Raffle ticket: Orindia (maybe middle island, now known as Fenn Aries??)
 - Stocky V: Co[rnm]---
-- Peaky crown: A[rnm]---
+- ???: Nuance
 
 Rays/Dividing Lines
 - Wavy lines: heat

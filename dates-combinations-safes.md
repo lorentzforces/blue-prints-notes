@@ -6,7 +6,7 @@
 | Shelter      | (time-lock) | #7     |                                                   |
 | Orchard      | 1128        | N/A    | Gate to Orchard                                   |
 | Study        |             |        |                                                   |
-| Office       |             |        |                                                   |
+| Office       | 0303        | #8     | March (03) + count of busts of count (3)          |
 | Drawing Room | 0415        | #6     | Women w/ small "gaits" + men w/ same              |
 | (presumed)   |             |        |                                                   |
 | (presumed)   |             |        |                                                   |
@@ -26,6 +26,7 @@
 - 11-11-1986 (Marion Marigold & others detained after Trinsdale bombing)
 - 02-22-1987 (Story about disappearance of Mary Matthew Jones _aka_ Marion Marigold)
 - 02-20-1987 (Day Marion/Mary disappeared, a Friday)
+- 10-06 (Fenn Aries Prince Leerson coup vs Desilets IV fter passing of Desilets III the prior day)
 
 ### Art letter puzzle message:
 
