@@ -46,7 +46,9 @@ Known safe locations:
 Antechamber Lever locations:
 - SOUTH: Greenhouse (requires broken lever item)
 - WEST: Secret Garden
-- EAST: --UNKNOWN--
+- EAST: Great Hall (door to the right as you're looking at the two chairs)
+- NORTH (to Room 46): Basement
+- > "One back up lever for each Antechamber door has been installed in separate locations for redundancy."
 
 There is a hamster in the Bunk Room.
 
@@ -71,6 +73,8 @@ The following rooms can only be drafted in the East & West Wings:
 **Soil Survey:**
 
 These values affect amount of fruit spread from gardens and amount of flowers that can bloom in a Greenhouse.
+
+For the Greenhouse, the number corresponds to the number of gems that will be available.
 
 1=poor, 2=good, 3=rich, X=barren
 
