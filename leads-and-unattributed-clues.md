@@ -65,6 +65,8 @@
 - Has a thermometer display when in it, likely have to raise temperature enough to unthaw items to make them accessible
 - How? Probably the boiler room or furnace? (more likely boiler since via the Laboratory we already know that the boiler room can have output directed to other rooms somehow)
 - Temperature looks like it needs to be indicating at least in the neighborhood of 17-18 C to "fully" thaw.
+- Note regarding temperature found in lab indicates that thawing does not affect the contents of the cooler.
+- Cooler contains a frozen special key and a frozen document
 
 ### Library
 
