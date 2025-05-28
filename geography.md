@@ -2,17 +2,18 @@
 
 > _NOTE: most of this information so far as mapping goes is current as of 3rd era from the maps in the 4th grade classroom_
 
+As per "Drafting Strategy Vol 1," blue is _not_ affiliated with any political entity.
+
 Our "continent" (or island grouping): Orindia
 - North: Arch Aries
-  - Icon: Peaky Crown
-  - Color: Blue
+  - Icon: Peaky Crown / Mountain
+  - Color: Blue(?)
   - Associated with storms
 - South: Eraja
   - Icon: Hourglass
   - Color: Purple
 - Middle: Orinda Aries (3rd era)
   - Icon: Raffle Ticket
-  - Color: Blue
 - Middle: Fenn Aries (current(?) era)
   - Icon: Pentagon
   - Color: Red
@@ -44,6 +45,8 @@ Order of bodies in the "Spiral of Stars" (counter-clockwise, starting at bottom 
 - Mora
 - Mamora
 - "the sun" (I believe it also has a name)
+
+The Crown of the Blueprints is labeled as "The former Ruby Crown of Orinda Aries, recently set with freshly cut sapphires," which may imply that the realm color for Orinda Aries was _also_ red?
 
 ### Sigils
 
@@ -83,3 +86,4 @@ Border
 - Zigzag: yellow
 - Empty triangles: orange
 
+The number of rays and motes combined is always 8, although the proportions within that total can vary.

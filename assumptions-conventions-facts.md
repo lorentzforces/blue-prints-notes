@@ -35,18 +35,12 @@ Terminal locations:
 - Office (email only accessible from here)
 - Blackbridge Grotto (special admin terminal)
 
-Known safe locations:
-- Boudoir (opened with 1225, contains gem and letter #4)
-- Study (locked, combination)
-- Office (locked, combination)
-- Drawing Room (locked, combination)
-- Shelter (time-lock, contains gem and letter #7)
-- Apple Orchard (opened with 1128, technically a gate, technically still counts)
+Known safe locations: [see the separate doc.](./dates-combinations-safes.md)
 
 Antechamber Lever locations:
 - SOUTH: Greenhouse (requires broken lever item)
 - WEST: Secret Garden
-- EAST: Great Hall (door to the right as you're looking at the two chairs)
+- EAST: Great Hall (door to the right as you're looking at the two chairs, this might change day to day)
 - NORTH (to Room 46): Basement
 - > "One back up lever for each Antechamber door has been installed in separate locations for redundancy."
 

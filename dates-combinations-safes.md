@@ -11,6 +11,8 @@
 | (presumed)   |             |        |                                                   |
 | (presumed)   |             |        |                                                   |
 
+The drafting room shows that there is a safe in the room with a built-in writing desk. The safe is to the left of the desk.
+
 > _NOTE: Dates are MM-DD-YYYY, years omitted (MM-DD) where unknown._
 
 ### Significant and Non-significant Dates

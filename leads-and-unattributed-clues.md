@@ -11,11 +11,13 @@
 - The insurgent group that these people seemed to be a part of was called "The Children of Black Water," which seems to be a parallel name to "Blackbridge" being the network and grotto name. Their group is also called RLCF - what does that stand for?
 - Who the fuck is Samantha Hayes?
   - a.k.a Marion Matthew Jones neé Epsen _a.k.a._ Marion Marigold
+- Does the three-mountain (overlapping triangles) symbol mean anything significant?
+
 
 ### Current open access problems
 
 - How to get across the Reservoir via boat
-  - 4 empty pips of water level is too low
+  - 2 empty pips of water level is too low
 - Terminal in Blackbridge Grotto requires an "admin key" to log in
   - First four letters of last name followed by first initial, 1st and 5th character capitalized)
   - Login has been given to "Mr. Ruota," found in Hartley's room (servant's quarters)
@@ -96,7 +98,16 @@ Can interact with:
 
 Can use one offline terminal per day.
 
-Terminal in grotto is currently inaccessible
+Accessed initially with Anne Babbage's account.
+
+Active accounts:
+  - MoorR (admin, Synka related)
+  - ThomK (admin, transfer from Synka, former assistant to H.S. Sinclair)
+  - BabbA (personnel admin)
+
+Archive access apparently also exists, but no account currently known has this access. (can view deleted logs/db entries)
+
+Offsite connections are still disabled.
 
 ### Greenhouse
 
@@ -166,7 +177,7 @@ Chess puzzle:
 | Pawn      | Knight    | Bishop    | Rook      | Queen     | King      |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Den       | Obsrvatry | Chapel    | Nook      |           | Office    |
-| Storeroom | Security  |           | Vault     |           |           |
+| Storeroom | Security  | Bookshop  | Vault     |           |           |
 | Scrt Pass |           |           |           |           |           |
 | Parlour   |           |           |           |           |           |
 | Nursery   |           |           |           |           |           |
@@ -174,6 +185,7 @@ Chess puzzle:
 | WlkInClst |           |           |           |           |           |
 | Bedroom   |           |           |           |           |           |
 | Dining Rm |           |           |           |           |           |
+| Drftng Rm |           |           |           |           |           |
 
 ### Billiard Room
 
@@ -187,8 +199,65 @@ Colors/operators
 ### Basement
 
 - Business card with teapot depicted on stand, "Hundred Bells" over it, handwritten note says "Sandy Heights 5 PM"
+  - Hundred Bells Tea Room is near Trinsdale Lake, and is open to the public for lunch on Mondays and Fridays
 
 ### List of Staff
 
-- ? Babbage
+- Anne Babbage
 - ? Routa
+
+### Gallery
+
+Contents are as follows:
+
+- THICK (k is thinner font face) with a hand flying overhead grasping manacles, with shooting stardust coming out of the wrist
+  - 5 letters (THICK?)
+- Eyeballs with "Actual Objective" sign, bottle labeled "GENU" on a table made out of the letters "VERI"
+  - 7 letters
+- Infinity symbol pierced with many nails supported by two columns in a stone-block room, bins labeled with each of the 7 deadly sins around. Animal-skin rug in front, framed picture of a shark fin on the left.
+  - 8 letters
+- Two (radio flyer style) wagons in midair, each holding a rose, an apple, a stop sign, and a fire hydrant. A large block "P" is also on top of the wagon on the right
+  - 6 letters
+
+### Room 46
+
+Two clocks on the wall are stopped at 1:30.
+
+Four(ish) busts:
+- Sinclair (man)
+- Epsen (woman)
+- Jones (boy, ME)
+- Marigold (empty plinth)
+
+Rough map of the world with 8 numbered tacks (1-8) and a handwritten note "8 realms in 8 months." Notably, there are only 7 interactable countries on this map. This may mean that both Orinda Aries and Fenn Aries need to be represented in the solution (in the same location).
+
+The top of the map (above the handwritten bit) may be the arch-shaped realm icon.
+
+The bookshelf has a miniature red wagon with a rose and an apple in it (reference to the Gallery piece?)
+
+The fireplace has the realm icons over the top of it in this order: ticket, pentagon, hourglass, mountain, V, diagonal jigsaw, arch, diamond. Placing pins on the map in this room in that order corresponding to the countries did not appear to do anything.
+
+### Inner Sanctum Rooms
+
+Sanctum key locations:
+
+"The first key found here on the furthest rank,"
+- Located in Room 46
+
+"The second locked tight in the valut of a bank,"
+
+"The third is high up, among all the clocks,"
+
+"And the fourth down below, beneath all the docks."
+
+"The fifth key is held by a king on his throne."
+
+"The sixth in a station, left by one of your own,"
+
+"The seventh is major if you draft it quite late,"
+
+"And the last key is waiting, behind the last door of eight."
+
+Based on Room 1, these rooms each have a mechanism for the sigil of one realm.
+
+Room 1: Ticket icon (Orinda Aries)

@@ -210,3 +210,20 @@ I
 _Depicts treble clef_
 
 Below: "denoted in verse"
+
+### Room 46 note about sanctum doors
+
+```
+The first key found here on the furthest rank,
+The second locked tight in the valut of a bank,
+The third is high up, among all the clocks,
+And the fourth down below, beneath all the docks.
+The fifth key is held by a king on his throne.
+The sixth in a station, left by one of your own,
+The seventh is major if you draft it quite late,
+And the last key is waiting, behind the last door of eight.
+```
+
+### Room 46 blackmail letter
+
+This secret room is not as secure as you thought we have your letters. 8 letters 8 payments 100 gold instructions to follow
