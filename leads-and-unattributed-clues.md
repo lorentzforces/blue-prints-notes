@@ -1,18 +1,20 @@
 # Leads & Unattributed Clues
 
+### Run goals
+
+- Get classrooms for grades 5-8
+-
+
 ### Unanswered Questions
 
 - Are doors with keyholes just _potentially_ locked, and doors without keyholes never locked?
-- How does one get water into the reserve tank in the Pump Room?
-- What happens if you spend more than 24 hours in a single day?
-- Data transfers from Synka? (mentioned in terminals)
+- Data transfers from Synka? (mentioned in terminals, still unknown since admin access to the Blackbridge Grotto terminal didn't enable this so far as I can tell)
 - What can you build with a broken lever, a battery, and a sledgehammer?
 - The Schoolhouse adds 8 Classrooms to the deck, with each grade level providing a hint. Probably want to maximize these at some point to get as much info as possible.
 - The insurgent group that these people seemed to be a part of was called "The Children of Black Water," which seems to be a parallel name to "Blackbridge" being the network and grotto name. Their group is also called RLCF - what does that stand for?
 - Who the fuck is Samantha Hayes?
   - a.k.a Marion Matthew Jones neé Epsen _a.k.a._ Marion Marigold
 - Does the three-mountain (overlapping triangles) symbol mean anything significant?
-
 
 ### Current open access problems
 
@@ -25,10 +27,8 @@
 - Door in Blackbridge Grotto seems to want a microchip, but the microchip that begins there can also be moved?
 - the Precipice has an uninteractable, closed door
 - In Basement (hallway 9 on map) red door with electronic box attached
-- In Basement (hallway 9, at lever to Room 46) there are eight doors which are currently non-interactable
 - In Reservoir, there are steps leading down on the basement side into the water (appears likely that it requires the Reservoir to be fully drained)
 - The Chess Puzzle
-- Room 46: the second time?
 
 ### Utility Closet
 
@@ -98,6 +98,8 @@ Can interact with:
 
 Can use one offline terminal per day.
 
+Account keys are first four letters of last name followed by first initial, 1st and 5th character capitalized)
+
 Accessed initially with Anne Babbage's account.
 
 Active accounts:
@@ -111,9 +113,9 @@ Offsite connections are still disabled.
 
 ### Greenhouse
 
-The greenhouse contains a broken lever which appears to be marked as the "south" one.
+The greenhouse contains a broken lever which opens the South Antechamber door.
 
-The greenhouse appears to be able to grow plants which produce gems.
+The greenhouse can grow plants which produce gems.
 
 ### Catacombs
 
@@ -129,7 +131,7 @@ The greenhouse appears to be able to grow plants which produce gems.
 - Abandoned Mines is accessible from the door with an arrow (back to the left), has an open round area with eight hallways, of which you enter in one. A cogged platform in the middle seems to be able to spin, and can connect two hallways which are separated by two other hallways (i.e. gear with 8 cogs has longer cogs on cog 1 and cog 4)
 - A second gear below the immediately visible one suggests that the entire assembly can be raised, making one gear capable of connection two of eight hallways on the _upper_ level and the bottom one capable of connecting the bottom hallways.
 - Following further enters the Reservoir, which at full height has an inaccessible boat. Accessing the boat likely requires a specific amount of water to be drained from the Reservoir.
-- Beyond the Reservoir is the Basement Door which provides access via the drained fountain regardless of whether the Tomb is present.
+- Beyond the Reservoir is the Basement Door which provides access via the drained fountain regardless of whether the Tomb is present (any amount of water in the fountain makes this inaccessible).
 
 ### Classroom
 
@@ -186,6 +188,7 @@ Chess puzzle:
 | Bedroom   |           |           |           |           |           |
 | Dining Rm |           |           |           |           |           |
 | Drftng Rm |           |           |           |           |           |
+| Guest Bdm |           |           |           |           |           |
 
 ### Billiard Room
 
@@ -244,7 +247,7 @@ Sanctum key locations:
 "The first key found here on the furthest rank,"
 - Located in Room 46
 
-"The second locked tight in the valut of a bank,"
+"The second locked tight in the vault of a bank,"
 
 "The third is high up, among all the clocks,"
 

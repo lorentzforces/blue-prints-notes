@@ -174,7 +174,7 @@ ready.
 
 > #### SEARCH CONTINUES
 > ...author and illustrator whose fanciful stories...
-> ...name Marion Marigold, wwas last seen by a...
+> ...name Marion Marigold, was last seen by a...
 > ...m Friday getting into a carriage after a late
 
 _(handwritten below)_
@@ -215,7 +215,7 @@ Below: "denoted in verse"
 
 ```
 The first key found here on the furthest rank,
-The second locked tight in the valut of a bank,
+The second locked tight in the vault of a bank,
 The third is high up, among all the clocks,
 And the fourth down below, beneath all the docks.
 The fifth key is held by a king on his throne.
