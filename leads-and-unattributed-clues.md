@@ -3,7 +3,10 @@
 ### Run goals
 
 - Get classrooms for grades 5-8
--
+- Draft a furnace next to a freezer
+  - ...and connect it to ducts
+- Get all chess pieces in a layout
+- Get a power hammer with brick walls (multiple in single run, preferably)
 
 ### Unanswered Questions
 
@@ -17,11 +20,14 @@
   - Two Fenn Aries passports found so far for "Jean Ribbon" and "Samantha Hayes"
 - Does the three-mountain (overlapping triangles) symbol mean anything significant?
 - Message from music sheets: "First words on the sheets are true message" -> "Find among the white trees under two stones"
+  - Near campsite, bring shovel
 
 ### Current open access problems
 
 - How to get across the Reservoir via boat
-  - 2 empty pips of water level is too low
+  - 13/14 pips of water level is correct for the boat
+- How to get to the bottom of the reservoir
+  - 6/14 pips is the entry to the "station?"
 - Terminal in Blackbridge Grotto requires an "admin key" to log in
   - First four letters of last name followed by first initial, 1st and 5th character capitalized)
   - Login has been given to "Mr. Ruota," found in Hartley's room (servant's quarters)
@@ -30,6 +36,7 @@
 - the Precipice has an uninteractable, closed door
 - In Basement (hallway 9 on map) red door with electronic box attached
 - In Reservoir, there are steps leading down on the basement side into the water (appears likely that it requires the Reservoir to be fully drained)
+  - This apparently leads to the "old station," 6/14 pips drained to access
 - The Chess Puzzle
 
 ### Utility Closet
@@ -172,7 +179,8 @@ The greenhouse can grow plants which produce gems.
 ### Secret Garden
 
 - access by using the Secret Garden key on a door leading to the East or West wing (east & west appear to be functionally identical)
-- there is a suspicious door-looking indentation in the brick wall (seems to match similar in Greenhouse)
+- has a moon shrine symbol accessible via brick wall switch
+- has a sigil for Orinda Aries accessible via brick wall switch
 
 ### Greenhouse
 
@@ -186,7 +194,7 @@ Chess puzzle:
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Den       | Obsrvatry | Chapel    | Nook      | Study     | Office    |
 | Storeroom | Security  | Bookshop  | Vault     |           |           |
-| Scrt Pass |           |           |           |           |           |
+| Scrt Pass |           | Attic     |           |           |           |
 | Parlour   |           |           |           |           |           |
 | Nursery   |           |           |           |           |           |
 | Drwing Rm |           |           |           |           |           |
@@ -284,3 +292,7 @@ All so far are Fenn Aries passports issued Jan 10 1984, expiring 10 years later
 - Jean Ribbon, DOB July 9, 1956 -- # 455 / FA815112
 - Samantha Hayes, DOB Jan 12, 1954, ID page is marked with red X -- # 455 / FA815544
 - Grey Daniels, DOB May 1, 1956, ID page is marked "compromised" in red -- # 455 / FA815232
+
+### Observatory
+
+For a given star count, the constellations seen are deterministic. I'm not gonna try to optimize that shit though.

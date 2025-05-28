@@ -14,6 +14,8 @@ Our "continent" (or island grouping): Orindia
   - Color: Purple
 - Middle: Orinda Aries (3rd era)
   - Icon: Raffle Ticket
+  - Color: Black
+  - SIGIL DETERMINED
 - Middle: Fenn Aries (current(?) era)
   - Icon: Pentagon
   - Color: Red
@@ -87,3 +89,7 @@ Border
 - Diagonal straight lines: green
 - Zigzag: yellow
 - Empty triangles: orange
+
+### Eight realms in eight months
+
+- Started going South (postmarked Orinda Aries, Black Bridge)
