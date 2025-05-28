@@ -44,7 +44,7 @@ Antechamber Lever locations:
 - NORTH (to Room 46): Basement
 - > "One back up lever for each Antechamber door has been installed in separate locations for redundancy."
 
-- Secondary: south lever in weight room
+- Secondary: south lever in weight room (may be behind suspicious brick wall)
 
 There is a hamster in the Bunk Room.
 

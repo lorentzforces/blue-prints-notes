@@ -13,8 +13,10 @@
 - The Schoolhouse adds 8 Classrooms to the deck, with each grade level providing a hint. Probably want to maximize these at some point to get as much info as possible.
 - The insurgent group that these people seemed to be a part of was called "The Children of Black Water," which seems to be a parallel name to "Blackbridge" being the network and grotto name. Their group is also called RLCF - what does that stand for?
 - Who the fuck is Samantha Hayes?
-  - a.k.a Marion Matthew Jones neé Epsen _a.k.a._ Marion Marigold
+  - _a.k.a_ Marion Matthew Jones neé Epsen _a.k.a._ Marion Marigold _a.k.a._ Jean Ribbon
+  - Two Fenn Aries passports found so far for "Jean Ribbon" and "Samantha Hayes"
 - Does the three-mountain (overlapping triangles) symbol mean anything significant?
+- Message from music sheets: "First words on the sheets are true message" -> "Find among the white trees under two stones"
 
 ### Current open access problems
 
@@ -67,6 +69,7 @@
 - Temperature looks like it needs to be indicating at least in the neighborhood of 17-18 C to "fully" thaw.
 - Note regarding temperature found in lab indicates that thawing does not affect the contents of the cooler.
 - Cooler contains a frozen special key and a frozen document
+- Furnace being nearby will thaw the freezer
 
 ### Library
 
@@ -108,6 +111,7 @@ Active accounts:
   - MoorR (admin, Synka related)
   - ThomK (admin, transfer from Synka, former assistant to H.S. Sinclair)
   - BabbA (personnel admin)
+  - ? Darren Kirk? (security)
 
 Archive access apparently also exists, but no account currently known has this access. (can view deleted logs/db entries)
 
@@ -180,7 +184,7 @@ Chess puzzle:
 
 | Pawn      | Knight    | Bishop    | Rook      | Queen     | King      |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| Den       | Obsrvatry | Chapel    | Nook      |           | Office    |
+| Den       | Obsrvatry | Chapel    | Nook      | Study     | Office    |
 | Storeroom | Security  | Bookshop  | Vault     |           |           |
 | Scrt Pass |           |           |           |           |           |
 | Parlour   |           |           |           |           |           |
@@ -191,6 +195,8 @@ Chess puzzle:
 | Dining Rm |           |           |           |           |           |
 | Drftng Rm |           |           |           |           |           |
 | Guest Bdm |           |           |           |           |           |
+| Solarium  |           |           |           |           |           |
+| Bunk Room |           |           |           |           |           |
 
 ### Billiard Room
 
@@ -266,3 +272,15 @@ Sanctum key locations:
 Based on Room 1, these rooms each have a mechanism for the sigil of one realm.
 
 Room 1: Ticket icon (Orinda Aries)
+
+### Great Hall
+
+Layout of which doors lead where changes on a daily basis.
+
+### Passports
+
+All so far are Fenn Aries passports issued Jan 10 1984, expiring 10 years later
+
+- Jean Ribbon, DOB July 9, 1956 -- # 455 / FA815112
+- Samantha Hayes, DOB Jan 12, 1954, ID page is marked with red X -- # 455 / FA815544
+- Grey Daniels, DOB May 1, 1956, ID page is marked "compromised" in red -- # 455 / FA815232

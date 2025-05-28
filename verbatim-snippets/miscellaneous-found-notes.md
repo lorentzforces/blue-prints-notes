@@ -86,6 +86,30 @@ The clue you hold can not be paid
 With gems nor coin, tso toss away,
 These **sheets** you find a worthy trade
 
+### Music sheet: "6"
+
+_Found in Ballroom_
+
+> Musical staff notation is omitted
+
+Under these stars, the danc eis held
+And to the floor we **are** compelled
+The gowns glide on and music swells
+And at the end the clock strikes twelve
+What that means only time can tell
+
+### Music sheet: "7"
+
+_Found in Ballroom_
+
+> Musical staff notation is omitted
+
+Two remain for one last dance,
+And spin a gain around clock hands,
+And as they turn, a second chance
+To rise above the falling sands
+The **true** time lost in past romance.
+
 ### Music sheet: "8"
 
 _Found in Workshop_
@@ -227,3 +251,11 @@ And the last key is waiting, behind the last door of eight.
 ### Room 46 blackmail letter
 
 This secret room is not as secure as you thought we have your letters. 8 letters 8 payments 100 gold instructions to follow
+
+### Short note in Dovecote
+
+_(after student correspondence from Mary to her mother)_
+
+We are returning east and should arrive on tuesday.
+
+if coast is not clear, lower the FD _(unsure here, FD/SD/LD?)_ to warn us

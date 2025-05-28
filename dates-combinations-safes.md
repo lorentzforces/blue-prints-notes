@@ -5,7 +5,7 @@
 | Boudoir      | 1225        | #4     |                                                   |
 | Shelter      | (time-lock) | #7     |                                                   |
 | Orchard      | 1128        | N/A    | Gate to Orchard                                   |
-| Study        |             |        |                                                   |
+| Study        | 1208        | #2     | Queen on chessboard at D8 -> Dec 8                |
 | Office       | 0303        | #8     | March (03) + count of busts of count (3)          |
 | Drawing Room | 0415        | #6     | Women w/ small "gaits" + men w/ same              |
 | (presumed)   |             |        |                                                   |
@@ -29,6 +29,8 @@ The drafting room shows that there is a safe in the room with a built-in writing
 - 02-22-1987 (Story about disappearance of Mary Matthew Jones _aka_ Marion Marigold)
 - 02-20-1987 (Day Marion/Mary disappeared, a Friday)
 - 10-06 (Fenn Aries Prince Leerson coup vs Desilets IV fter passing of Desilets III the prior day)
+- 11-04-1993 (Day H.S. Sinclair died, Wednesday)
+- 11-07-1993 (Day 1, Saturday)
 
 ### Art letter puzzle message:
 

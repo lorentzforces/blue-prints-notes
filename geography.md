@@ -20,6 +20,8 @@ Our "continent" (or island grouping): Orindia
   - Associated with fog
   - Military culture
   - Notable locations: Fenn (city, contains Royal Museum), Colossus Orinda, Reddington (city, contains Mount Holly), Oris (previous capital?)
+  - 4 rays
+  - 8 motes
 - Southwest: Nuance
   - Icon: Diamond
   - Color: Green
@@ -85,5 +87,3 @@ Border
 - Diagonal straight lines: green
 - Zigzag: yellow
 - Empty triangles: orange
-
-The number of rays and motes combined is always 8, although the proportions within that total can vary.
