@@ -7,7 +7,7 @@ As per "Drafting Strategy Vol 1," blue is _not_ affiliated with any political en
 Our "continent" (or island grouping): Orindia
 - North: Arch Aries
   - Icon: Peaky Crown / Mountain
-  - Color: Blue(?)
+  - Color: Blue(?) (NOT BLUE)
   - Associated with storms
 - South: Eraja
   - Icon: Hourglass
@@ -93,3 +93,4 @@ Border
 ### Eight realms in eight months
 
 - Started going South (postmarked Orinda Aries, Black Bridge)
+- Fenn Aries is last

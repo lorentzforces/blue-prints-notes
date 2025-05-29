@@ -5,7 +5,6 @@
 - Get classrooms for grades 5-8
 - Draft a furnace next to a freezer
   - ...and connect it to ducts
-- Get all chess pieces in a layout
 - Get a power hammer with brick walls (multiple in single run, preferably)
 - Get a pump room and draw down the reservoir to 6/0 pips
 
@@ -27,7 +26,7 @@
 
 - How to get across the Reservoir via boat
   - 13/14 pips of water level is correct for the boat
-- How to get to the bottom of the reservoir
+- How to get to the "station"
   - 6/14 pips is the entry to the "station?"
 - Terminal in Blackbridge Grotto requires an "admin key" to log in
   - First four letters of last name followed by first initial, 1st and 5th character capitalized)
@@ -35,10 +34,8 @@
   - Hypothesis: "RoutH" (INCORRECT)
 - Door in Blackbridge Grotto seems to want a microchip, but the microchip that begins there can also be moved?
 - the Precipice has an uninteractable, closed door
-- In Basement (hallway 9 on map) red door with electronic box attached
 - In Reservoir, there are steps leading down on the basement side into the water (appears likely that it requires the Reservoir to be fully drained)
-  - This apparently leads to the "old station," 6/14 pips drained to access
-- The Chess Puzzle
+  - the fully drained reservoir has an allowance token still available in it
 
 ### Utility Closet
 
@@ -166,7 +163,7 @@ The greenhouse can grow plants which produce gems.
   - map: yellow
   - lizard: green
   - broccoli: green
-  - flag with mountain: blue
+  - flag with mountain: blue (addendum: ????)
   - pond: blue
   - flag with hourglass: purple
   - grapes: purple
@@ -196,7 +193,7 @@ Chess puzzle:
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Den       | Obsrvatry | Chapel    | Nook      | Study     | Office    |
 | Storeroom | Security  | Bookshop  | Vault     |           |           |
-| Scrt Pass |           | Attic     |           |           |           |
+| Scrt Pass | Armory    | Attic     |           |           |           |
 | Parlour   |           |           |           |           |           |
 | Nursery   |           |           |           |           |           |
 | Drwing Rm |           |           |           |           |           |
@@ -271,6 +268,8 @@ Sanctum key locations:
 
 "And the fourth down below, beneath all the docks."
   - "the pink boxes do not contain any prizes"
+  - "a prize is in a box marked by 'flame icon'" (green, is false)
+  - "the box containing allowance tokens is white" (green, is false)
 
 "The fifth key is held by a king on his throne."
 
