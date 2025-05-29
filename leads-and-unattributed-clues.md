@@ -19,9 +19,7 @@
   - _a.k.a_ Marion Matthew Jones neé Epsen _a.k.a._ Marion Marigold _a.k.a._ Jean Ribbon
   - Two Fenn Aries passports found so far for "Jean Ribbon" and "Samantha Hayes"
 - Does the three-mountain (overlapping triangles) symbol mean anything significant?
-- Message from music sheets: "First words on the sheets are true message" -> "Find among the white trees under two stones"
-  - Near campsite, bring shovel
-- In the Safehouse (Reservoir Station), there is a picture of a crack in a wall near a curving staircase. At first look, this looks similar to the wall in the chess puzzle room.
+- In the Safehouse (Reservoir Station), there is a picture of a crack in a wall near a curving staircase. This is the wall in the chess puzzle room.
 - In the Safehouse, there is a picture of security monitors, with A on one (second from top-right) with the note "delete it!" written next to it. This corresponds to a view of the Archives. ???
 
 ### Current open access problems
@@ -43,7 +41,7 @@
 
 ### Garage
 
-- The car keys unlock the boot, which contains a battery and the Secret Garden key (if Secret Garden key is not already found)
+- The car keys unlock the boot, which contains an item and the Secret Garden key (if Secret Garden key is not already found)
 
 ### Shelter (outer room)
 
@@ -106,21 +104,13 @@ Account keys are first four letters of last name followed by first initial, 1st 
 
 Accessed initially with Anne Babbage's account.
 
-Active accounts:
-  - MoorR (admin, Synka related)
-  - ThomK (admin, transfer from Synka, former assistant to H.S. Sinclair)
-  - BabbA (personnel admin)
-  - ? Darren Kirk? (security)
-  - RevaD (discontinued, former groundskeeper but also the one who placed the backup servers in the Freezer)
-  - HartR (not found, Hartley, had previously set up admin accounts for other people)
-
 Archive access apparently also exists, but no account currently known has this access. (can view deleted logs/db entries)
 
 Offsite connections are still disabled.
 
 Backup physical server units are kept in "cold storage" in the closet in the Freezer
 
-There are two server units which are lightless, these may have to be replaced with the "cold storage" units?
+There are two server units which are ~maidenless~ lightless, these may have to be replaced with the "cold storage" units?
 
 ### Greenhouse
 
@@ -225,7 +215,8 @@ Colors/operators
 ### List of Staff
 
 - Anne Babbage
-- ? Routa
+- ??? Routa
+- ??? Hartley
 
 ### Gallery
 
@@ -307,12 +298,6 @@ For a given star count, the constellations seen are deterministic. I'm not gonna
 ### Safehouse
 
 - Station platform wall to the left (by the "Platform 8" sign) seems as if there might be something behind it.
-
-### People
-
-- Mary Marigold
-- ??? White
-- ??? Farro
 
 ### Angels
 
