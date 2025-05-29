@@ -7,6 +7,7 @@
   - ...and connect it to ducts
 - Get all chess pieces in a layout
 - Get a power hammer with brick walls (multiple in single run, preferably)
+- Get a pump room and draw down the reservoir to 6/0 pips
 
 ### Unanswered Questions
 
@@ -175,6 +176,7 @@ The greenhouse can grow plants which produce gems.
   - I Ce
   - S Te Am
 - **GRADE 4:** [MUCH GEOGRAPHY](./geography.md)
+- **GRADE 5:** Explanation of art puzzle
 
 ### Secret Garden
 
@@ -209,7 +211,7 @@ Chess puzzle:
 ### Billiard Room
 
 Colors/operators
-- square(bullseye): literal square (^2), operates on total of inner (addition) ring
+- square(bullseye): literal square (^2), operates on total of the ring with the same color
 - light blue: addition
 - yellow: subtraction
 - pink: multiplication
