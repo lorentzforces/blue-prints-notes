@@ -5,9 +5,9 @@
 - Get classrooms for grades 5-8
 - Bring some kind of heat-generating item to the freezer to thaw the cooler
 - Get a power hammer with brick walls (multiple in single run, preferably)
-- Get a pump room and draw the reservoir to 13/14 pips
-  - Move the boat
-  - Draw the reservoir down to 6/15  pips
+- Reservoir
+  - Ride boat from basement side of reservoir
+- Find more potential admin accounts for the Blackbridge terminal
 
 ### Unanswered Questions
 
