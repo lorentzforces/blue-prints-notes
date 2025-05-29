@@ -3,17 +3,18 @@
 ### Run goals
 
 - Get classrooms for grades 5-8
-- Draft a furnace next to a freezer
-  - ...and connect it to ducts
+- Bring some kind of heat-generating item to the freezer to thaw the cooler
 - Get a power hammer with brick walls (multiple in single run, preferably)
-- Get a pump room and draw down the reservoir to 6/0 pips
+- Get a pump room and draw the reservoir to 13/14 pips
+  - Move the boat
+  - Draw the reservoir down to 6/15  pips
 
 ### Unanswered Questions
 
 - Are doors with keyholes just _potentially_ locked, and doors without keyholes never locked?
 - Data transfers from Synka? (mentioned in terminals, still unknown since admin access to the Blackbridge Grotto terminal didn't enable this so far as I can tell)
 - What can you build with a broken lever, a battery, and a sledgehammer?
-- The Schoolhouse adds 8 Classrooms to the deck, with each grade level providing a hint. Probably want to maximize these at some point to get as much info as possible.
+- The Schoolhouse adds 8 Classrooms to the deck, we've gotten to grade 5
 - The insurgent group that these people seemed to be a part of was called "The Children of Black Water," which seems to be a parallel name to "Blackbridge" being the network and grotto name. Their group is also called RLCF - what does that stand for?
 - Who the fuck is Samantha Hayes?
   - _a.k.a_ Marion Matthew Jones neé Epsen _a.k.a._ Marion Marigold _a.k.a._ Jean Ribbon
@@ -21,14 +22,9 @@
 - Does the three-mountain (overlapping triangles) symbol mean anything significant?
 - Message from music sheets: "First words on the sheets are true message" -> "Find among the white trees under two stones"
   - Near campsite, bring shovel
-- What does the ductwork do when connected to the Garage?
 
 ### Current open access problems
 
-- How to get across the Reservoir via boat
-  - 13/14 pips of water level is correct for the boat
-- How to get to the "station"
-  - 6/14 pips is the entry to the "station?"
 - Terminal in Blackbridge Grotto requires an "admin key" to log in
   - First four letters of last name followed by first initial, 1st and 5th character capitalized)
   - Login has been given to "Mr. Ruota," found in Hartley's room (servant's quarters)
@@ -70,12 +66,11 @@
 ### Freezer
 
 - Cannot be drafted the day after it is drafted.
-- Has a thermometer display when in it, likely have to raise temperature enough to unthaw items to make them accessible
-- How? Probably the boiler room or furnace? (more likely boiler since via the Laboratory we already know that the boiler room can have output directed to other rooms somehow)
-- Temperature looks like it needs to be indicating at least in the neighborhood of 17-18 C to "fully" thaw.
+- Furnace 2 spaces away (1 space in between) is sufficient to thaw the freezer
+- Seems likely that a room with a lit fireplace adjacent may also thaw the freezer
 - Note regarding temperature found in lab indicates that thawing does not affect the contents of the cooler.
-- Cooler contains a frozen special key and a frozen document
-- Furnace being nearby will thaw the freezer
+- Cooler contains a frozen prism key and a frozen document
+- Can thaw your accounts at a Furnace or a Sauna (maybe fireplaces too?)
 
 ### Library
 
@@ -118,10 +113,15 @@ Active accounts:
   - ThomK (admin, transfer from Synka, former assistant to H.S. Sinclair)
   - BabbA (personnel admin)
   - ? Darren Kirk? (security)
+  - RevaD (discontinued, former groundskeeper but also the one who placed the backup servers in the Freezer)
 
 Archive access apparently also exists, but no account currently known has this access. (can view deleted logs/db entries)
 
 Offsite connections are still disabled.
+
+Backup physical server units are kept in "cold storage" in the closet in the Freezer
+
+There are two server units which are lightless, these may have to be replaced with the "cold storage" units?
 
 ### Greenhouse
 
@@ -149,6 +149,7 @@ The greenhouse can grow plants which produce gems.
 
 - requires Schoolhouse outer room to be in draft pool
 - every student's favorite color is red? (PATRIOTISM)
+- Grade 8 is followed by a final exam if 9 classrooms are drafted
 - -1 * 2 + 3 - 4 + 5 * 6 - 7 + 8 * 9 + 10
   - "8" is sideways like the South pole continent symbol
   - three ways to interpret this
@@ -205,6 +206,8 @@ Chess puzzle:
 | Guest Bdm |           |           |           |           |           |
 | Solarium  |           |           |           |           |           |
 | Bunk Room |           |           |           |           |           |
+| Lost&Fnd  |           |           |           |           |           |
+| Freezer   |           |           |           |           |           |
 
 ### Billiard Room
 
@@ -268,10 +271,11 @@ Sanctum key locations:
 "The third is high up, among all the clocks,"
 
 "And the fourth down below, beneath all the docks."
-  - "the pink boxes do not contain any prizes"
-  - "a prize is in a box marked by 'flame icon'" (green, is true)
-  - "the box containing allowance tokens is white" (green, is true)
+  - "the pink boxes do not contain any prizes" (blue)
+  - "a prize is in a box marked by 'flame icon'" (unknown)
+  - "the box containing allowance tokens is white" (unknown)
   - "the green notes you find in this room will always be true" (green, is true)
+  - "green memos in white boxes are always lies" (blue)
 
 "The fifth key is held by a king on his throne."
 

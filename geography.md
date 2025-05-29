@@ -9,7 +9,7 @@ Our "continent" (or island grouping): Orindia
   - Icon: Peaky Crown / Mountain
   - Color: Yellow
   - Associated with storms
-- South: Eraja
+- South: Eraja [Arie]
   - Icon: Hourglass
   - Color: Purple
 - Middle: Orinda Aries (3rd era)
@@ -38,8 +38,14 @@ Western "continent": Moraven
   - Color: Blue (?)
 - Southeast: Verra
   - Icon: Diagonal single-tooth puzzle piece
+  - Color: Pink (? process of elimination with fragment and Mora Jai being blue)
 
 South pole continent is marked with an infinity symbol
+
+Found fragment of a sigil:
+  - cogged line
+  - wavy rays
+  - pie with dots motes
 
 ### Miscellaneous:
 
