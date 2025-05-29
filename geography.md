@@ -57,15 +57,15 @@ Order of bodies in the "Spiral of Stars" (counter-clockwise, starting at bottom 
 - Mamora
 - "the sun" (I believe it also has a name)
 
-The Crown of the Blueprints is labeled as "The former Ruby Crown of Orinda Aries, recently set with freshly cut sapphires," which may imply that the realm color for Orinda Aries was _also_ red?
+~The Crown of the Blueprints is labeled as "The former Ruby Crown of Orinda Aries, recently set with freshly cut sapphires," which may imply that the realm color for Orinda Aries was _also_ red?~ This is incorrect, the color of Orinda Aries was black.
 
 ### Sigils
 
-Core (denotes countries, first three countries are the currently-existing ones)
+Core (denotes countries)
 - Pentagon: Fenn Aries
 - Peaky crown: Arch Aries (northern, associated with storms?)
 - Hourglass: Eraja (southern)
-- Raffle ticket: Orindia (maybe middle island, now known as Fenn Aries??)
+- Raffle ticket: Orindia (middle island, succeeded by Fenn Aries)
 - Stocky V: Corarica
 - Diamond: Nuance
 

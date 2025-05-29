@@ -2,12 +2,11 @@
 
 ### Run goals
 
-- Get classrooms for grades 5-8
+- Get classrooms for grades 6-8
 - Bring some kind of heat-generating item to the freezer to thaw the cooler
 - Get a power hammer with brick walls (multiple in single run, preferably)
-- Reservoir
-  - Ride boat from basement side of reservoir
 - Find more potential admin accounts for the Blackbridge terminal
+- Find more information about the countries of the world for sigil puzzle reasons
 
 ### Unanswered Questions
 
@@ -22,17 +21,16 @@
 - Does the three-mountain (overlapping triangles) symbol mean anything significant?
 - Message from music sheets: "First words on the sheets are true message" -> "Find among the white trees under two stones"
   - Near campsite, bring shovel
+- In the Safehouse (Reservoir Station), there is a picture of a crack in a wall near a curving staircase. At first look, this looks similar to the wall in the chess puzzle room.
+- In the Safehouse, there is a picture of security monitors, with A on one (second from top-right) with the note "delete it!" written next to it. This corresponds to a view of the Archives. ???
 
 ### Current open access problems
 
 - Terminal in Blackbridge Grotto requires an "admin key" to log in
   - First four letters of last name followed by first initial, 1st and 5th character capitalized)
-  - Login has been given to "Mr. Ruota," found in Hartley's room (servant's quarters)
-  - Hypothesis: "RoutH" (INCORRECT)
+  - Still need to find a "higher admin" or hidden admin account for this terminal
 - Door in Blackbridge Grotto seems to want a microchip, but the microchip that begins there can also be moved?
 - the Precipice has an uninteractable, closed door
-- In Reservoir, there are steps leading down on the basement side into the water (appears likely that it requires the Reservoir to be fully drained)
-  - the fully drained reservoir has an allowance token still available in it
 
 ### Utility Closet
 
@@ -114,6 +112,7 @@ Active accounts:
   - BabbA (personnel admin)
   - ? Darren Kirk? (security)
   - RevaD (discontinued, former groundskeeper but also the one who placed the backup servers in the Freezer)
+  - HartR (not found, Hartley, had previously set up admin accounts for other people)
 
 Archive access apparently also exists, but no account currently known has this access. (can view deleted logs/db entries)
 
@@ -304,3 +303,17 @@ All so far are Fenn Aries passports issued Jan 10 1984, expiring 10 years later
 ### Observatory
 
 For a given star count, the constellations seen are deterministic. I'm not gonna try to optimize that shit though.
+
+### Safehouse
+
+- Station platform wall to the left (by the "Platform 8" sign) seems as if there might be something behind it.
+
+### People
+
+- Mary Marigold
+- ??? White
+- ??? Farro
+
+### Angels
+
+- Mila: Broom + Maid outfit
