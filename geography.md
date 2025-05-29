@@ -7,7 +7,7 @@ As per "Drafting Strategy Vol 1," blue is _not_ affiliated with any political en
 Our "continent" (or island grouping): Orindia
 - North: Arch Aries
   - Icon: Peaky Crown / Mountain
-  - Color: Blue(?) (NOT BLUE)
+  - Color: Yellow
   - Associated with storms
 - South: Eraja
   - Icon: Hourglass
@@ -35,6 +35,7 @@ Western "continent": Moraven
   - Color: Orange
 - Northeast: Mora Jai
   - Icon: Arch
+  - Color: Blue (?)
 - Southeast: Verra
   - Icon: Diagonal single-tooth puzzle piece
 

@@ -59,13 +59,28 @@ Box game invariants:
 - at LEAST one box label is false
 - ONLY one box is not empty
 
-The following rooms can only be drafted in the East & West Wings:
+### Room drafting limitations:
+
+West wing ONLY
+- Garage
+- West Wing Hall
+- Her Ladyship's Chamber (from south-facing doors)
+
+East Wing ONLY
+- East Wing Hall
+- Master Bedroom
+
+The following rooms can only be drafted in the East **AND** West Wings:
 - Terrace
 - Patio
 - Veranda
 - Morning Room
 - Greenhouse
 - Secret Garden (must use the Secret Garden Key to unlock a locked door)
+
+Other Special Cases
+- Conservatory (only draftable in a corner)
+- Bookshop (only draftable from Library)
 
 **Soil Survey:**
 

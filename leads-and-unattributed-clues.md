@@ -21,6 +21,7 @@
 - Does the three-mountain (overlapping triangles) symbol mean anything significant?
 - Message from music sheets: "First words on the sheets are true message" -> "Find among the white trees under two stones"
   - Near campsite, bring shovel
+- What does the ductwork do when connected to the Garage?
 
 ### Current open access problems
 
@@ -160,10 +161,10 @@ The greenhouse can grow plants which produce gems.
   - flag with heart: orange
   - pumpkin: orange
   - bananas: yellow
-  - map: yellow
+  - blueprint: blue
   - lizard: green
   - broccoli: green
-  - flag with mountain: blue (addendum: ????)
+  - flag with mountain: yellow
   - pond: blue
   - flag with hourglass: purple
   - grapes: purple
@@ -194,7 +195,7 @@ Chess puzzle:
 | Den       | Obsrvatry | Chapel    | Nook      | Study     | Office    |
 | Storeroom | Security  | Bookshop  | Vault     |           |           |
 | Scrt Pass | Armory    | Attic     |           |           |           |
-| Parlour   |           |           |           |           |           |
+| Parlour   | Treasure  |           |           |           |           |
 | Nursery   |           |           |           |           |           |
 | Drwing Rm |           |           |           |           |           |
 | WlkInClst |           |           |           |           |           |
@@ -268,8 +269,9 @@ Sanctum key locations:
 
 "And the fourth down below, beneath all the docks."
   - "the pink boxes do not contain any prizes"
-  - "a prize is in a box marked by 'flame icon'" (green, is false)
-  - "the box containing allowance tokens is white" (green, is false)
+  - "a prize is in a box marked by 'flame icon'" (green, is true)
+  - "the box containing allowance tokens is white" (green, is true)
+  - "the green notes you find in this room will always be true" (green, is true)
 
 "The fifth key is held by a king on his throne."
 
