@@ -8,6 +8,9 @@ _(found in Security Room)_
 _(found in Laboratory)_
 > THIS MACHINE REQUIRES ADDITIONAL POWER PIPED IN FROM THE BOILER ROOM
 
+_(found at bottom of reservoir)_
+> THE PINK BOXES DO NOT CONTAIN ANY PRIZES
+
 ### Red memos
 
 _(found in Conference Room)_

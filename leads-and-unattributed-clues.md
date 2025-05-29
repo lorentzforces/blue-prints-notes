@@ -270,6 +270,7 @@ Sanctum key locations:
 "The third is high up, among all the clocks,"
 
 "And the fourth down below, beneath all the docks."
+  - "the pink boxes do not contain any prizes"
 
 "The fifth key is held by a king on his throne."
 
