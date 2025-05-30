@@ -43,6 +43,7 @@ Western "continent": Moraven
   - Icon: Arch
   - Color: Blue (?)
   - Seafaring
+  - Culture: Possibly Academic based on the fact that Mora Jai boxes have the name that they do
 - Southeast: Verra
   - Icon: Diagonal single-tooth puzzle piece
   - Color: Orange or Pink (stamp looks more orange)

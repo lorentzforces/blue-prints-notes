@@ -24,6 +24,7 @@
 - Does the three-mountain (overlapping triangles) symbol mean anything significant?
 - In the Safehouse (Reservoir Station), there is a picture of a crack in a wall near a curving staircase. This is the wall in the chess puzzle room.
 - In the Safehouse, there is a picture of security monitors, with A on one (second from top-right) with the note "delete it!" written next to it. This corresponds to a view of the Archives. ???
+- Which room corresponds to the Aquarium setup with two benches, two urns, and a chair?
 
 ### Current open access problems
 
@@ -118,7 +119,7 @@ Corner Cases
   Library
 ✓ Pantry
 ```
-- Patio: (unknown)
+- Patio: "buried"
 - Nook: "beside"
 - Office: "west"
 - Pantry: "bridge"
@@ -372,6 +373,7 @@ For a given star count, the constellations seen are deterministic. I'm not gonna
 
 - Mila: Broom + Maid outfit
 - Orinda: Royalty
+- Joya: Cook
 
 ### Aquarium
 
