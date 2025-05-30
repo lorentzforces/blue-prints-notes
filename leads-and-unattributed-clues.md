@@ -10,6 +10,7 @@
 - Draft a Patio and find whatever the lower-case clue is
 - Check out _Swim Bird_ and deduce what word it should contribute to the _A New Clue_ puzzle
 - Find/check out the green book referenced in _A New Clue_ and extract info
+- Draft a Drafting Room and obtain the Clock Tower blueprint
 
 ### Unanswered Questions
 
@@ -92,6 +93,8 @@
   - BLUE page Z word X
 
 A picture of the detective in a hall of records, reading a blueprint with a hammer and a blue + gold urn behind him
+
+> This was an urn in the front hall, which contained a microchip
 
 On the blackboard:
 - Merry/Mary (arrow to smudged out face)
@@ -324,11 +327,12 @@ The fireplace has the realm icons over the top of it in this order: ticket, pent
 Sanctum key locations:
 
 ✓ "The first key found here on the furthest rank,"
-- Located in Room 46
+  - Located in Room 46
 
 "The second locked tight in the vault of a bank,"
 
 "The third is high up, among all the clocks,"
+  - Clock Tower, need
 
 ✓ "And the fourth down below, beneath all the docks."
   - "the pink boxes do not contain any prizes" (blue)
@@ -339,11 +343,13 @@ Sanctum key locations:
   - "two realms have the same color banner" (green, is false because white box)
 
 "The fifth key is held by a king on his throne."
+  - The Throne Room is now an available blueprint
 
 ✓ "The sixth in a station, left by one of your own,"
   - Safehouse acessible via
 
 "The seventh is major if you draft it quite late,"
+  - Draft Music Room in 9th rank?
 
 "And the last key is waiting, behind the last door of eight."
 
@@ -371,9 +377,13 @@ For a given star count, the constellations seen are deterministic. I'm not gonna
 
 ### Angels
 
-- Mila: Broom + Maid outfit
-- Orinda: Royalty
+- Mila: Maid, broom
+- Orinda: Royalty, scepter
 - Joya: Cook
+- Rynna: Farmer, hoe
+- ???: Chimney sweep, duster, top hat
+- ???: Rider, crop
+- ???: Rancher, pitchfork
 
 ### Aquarium
 
@@ -382,4 +392,4 @@ Several rooms are represented in the tanks:
 - Bedroom
 - Patio
 - Laundry
-- two bench seats, two urns, and a chair with an oval back
+- two bench seats, two urns, and a chair with an oval back (Drawing Room?)
