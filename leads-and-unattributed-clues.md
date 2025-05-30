@@ -4,19 +4,20 @@
 
 - Get classrooms for grades 6-8
 - Bring some kind of heat-generating item to the freezer to thaw the cooler
-- Get a power hammer with brick walls (multiple in single run, preferably)
+- Get a power hammer with brick walls (multiple walls in single run, preferably)
 - Find more potential admin accounts for the Blackbridge terminal
 - Find more information about the countries of the world for sigil puzzle reasons
-- Draft a Patio and find whatever the lower-case clue is
 - Check out _Swim Bird_ and deduce what word it should contribute to the _A New Clue_ puzzle
 - Find/check out the green book referenced in _A New Clue_ and extract info
 - Draft a Drafting Room and obtain the Clock Tower blueprint
+- Draft the Throne Room and investigate the throne for sanctum key shit
+- Draft a Music Room in rank 9
+- Find and use a fourth Vault key
 
 ### Unanswered Questions
 
 - Are doors with keyholes just _potentially_ locked, and doors without keyholes never locked?
 - Data transfers from Synka? (mentioned in terminals, still unknown since admin access to the Blackbridge Grotto terminal didn't enable this so far as I can tell)
-- What can you build with a broken lever, a battery, and a sledgehammer?
 - The Schoolhouse adds 8 Classrooms to the deck, we've gotten to grade 5
 - The insurgent group that these people seemed to be a part of was called "The Children of Black Water," which seems to be a parallel name to "Blackbridge" being the network and grotto name. Their group is also called RLCF - what does that stand for?
 - Who the fuck is Samantha Hayes?
