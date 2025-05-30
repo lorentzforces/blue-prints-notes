@@ -7,6 +7,9 @@
 - Get a power hammer with brick walls (multiple in single run, preferably)
 - Find more potential admin accounts for the Blackbridge terminal
 - Find more information about the countries of the world for sigil puzzle reasons
+- Draft a Patio and find whatever the lower-case clue is
+- Check out _Swim Bird_ and deduce what word it should contribute to the _A New Clue_ puzzle
+- Find/check out the green book referenced in _A New Clue_ and extract info
 
 ### Unanswered Questions
 
@@ -72,6 +75,72 @@
 
 - checkout system is another "holdover" mechanic where the results is available after the end of that day
 - book selection menu appears to be the same no matter what
+
+
+#### _A New Clue_
+
+- _A New Clue_ includes a picture of a woman with a yellow turn sign
+- _A New Clue_ letter -> order key: X -> Y -> Z -> A -> B -> C
+- has a purple cover
+- published by "Sundial Publishing, 1988"
+
+"Assume page count starts on title pages"
+  - RED page A word X (The Red Prince, page 4 word 1, "the")
+  - GREEN page C word A
+  - VIOLET page B word Y (A New Clue, page 5 word 2, "looked")
+  - BLUE page Z word X
+
+A picture of the detective in a hall of records, reading a blueprint with a hammer and a blue + gold urn behind him
+
+On the blackboard:
+- Merry/Mary (arrow to smudged out face)
+- Gates/Gaits
+- Right / Write
+- Draft the sixes
+
+```
+He had looked high and low(8) in(12) all(1) of the rooms,(5 14)
+He had searched every corner(3) in each of the(13) tombs,
+In this particular case,(4 9) he had(6) checked(2) every space.
+If he found(11 7) a new clue,(10) he'd know what to do.
+```
+
+> "all checked corner case rooms had found low case clue found in the rooms"
+
+As per above, the list of "corner case" rooms is as follows:
+
+```
+Corner Cases
+  Parlor
+✓ Patio
+✓ Nook
+✓ Office
+  Library
+✓ Pantry
+```
+- Patio: (unknown)
+- Nook: "beside"
+- Office: "west"
+- Pantry: "bridge"
+
+> This led to a dig spot next to the West Bridge, which contained a microchip
+
+"DEAD end" -> x y z a b **C**
+"~ MAJOR KEY"
+
+`ma|jor`
+
+"Seen all the (stop sign) signs? (yellow diamond sign)" -> followed by 10 (blank?) horizontal lines
+
+SIGNS: Route 8 (down?), Depart, Keep Left, To Tanner Fork, (right turn icon), dead end, record, each, stop, on the way
+
+Following metro map: (8) Royal Station -> (7) Angel Tower -> (3) Aries Crossing -> (10) Tanner Fork -> (1) Oris Train Hall -> (13) Dead End
+
+Memos on final page: "The suspect is minor" (blue), "The suspect is major" (red, handwritten), "The suspect is miner" (red, printed), followed by in white "the suspect is A. Key"
+
+If we take "A key" to be the position in the list of the letter A (in this book's cipher/ordering), that would be 4
+
+> Major Nicolas Key IV?
 
 ### Root Cellar
 
@@ -184,7 +253,7 @@ Chess puzzle:
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Den       | Obsrvatry | Chapel    | Nook      | Study     | Office    |
 | Storeroom | Security  | Bookshop  | Vault     |           |           |
-| Scrt Pass | Armory    | Attic     |           |           |           |
+| Scrt Pass | Armory    | Attic     | Consrvtry |           |           |
 | Parlour   | Treasure  |           |           |           |           |
 | Nursery   |           |           |           |           |           |
 | Drwing Rm |           |           |           |           |           |
@@ -303,3 +372,12 @@ For a given star count, the constellations seen are deterministic. I'm not gonna
 
 - Mila: Broom + Maid outfit
 - Orinda: Royalty
+
+### Aquarium
+
+Several rooms are represented in the tanks:
+- Archives
+- Bedroom
+- Patio
+- Laundry
+- two bench seats, two urns, and a chair with an oval back
