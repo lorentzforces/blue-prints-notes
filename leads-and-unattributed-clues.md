@@ -303,3 +303,4 @@ For a given star count, the constellations seen are deterministic. I'm not gonna
 ### Angels
 
 - Mila: Broom + Maid outfit
+- Orinda: Royalty

@@ -4,16 +4,19 @@
 
 As per "Drafting Strategy Vol 1," blue is _not_ affiliated with any political entity.
 
-"Two realms have the same color banner."
+"Two realms have the same color banner." (false as per memo clue, no two realms have the same color banner)
 
 Our "continent" (or island grouping): Orindia
 - North: Arch Aries
   - Icon: Peaky Crown / Mountain
   - Color: Yellow
   - Associated with storms
+  - Transport: Railway?
 - South: Eraja [Arie]
   - Icon: Hourglass
   - Color: Purple
+  - Tradition/magic/poetry
+  - Transport: Railway?
 - Middle: Orinda Aries (3rd era)
   - Icon: Raffle Ticket
   - Color: Black
@@ -21,16 +24,16 @@ Our "continent" (or island grouping): Orindia
 - Middle: Fenn Aries (current(?) era)
   - Icon: Pentagon
   - Color: Red
-  - Associated with fog
-  - Road/carriage (4 diagonal rays)
-  - Military culture
+  - Weather: fog
+  - Transport: Road/carriage (4 diagonal rays)
+  - Culture: Military
   - Notable locations: Fenn (city, contains Royal Museum), Colossus Orinda, Reddington (city, contains Mount Holly), Oris (previous capital?)
   - 8 motes
 - Southwest: Nuance
   - Icon: Diamond
   - Color: Green
-  - Ferther Nuance is further and smaller, part of Nuance(?)
   - Flight transport
+  - random fact: Ferther Nuance is further and smaller, part of Nuance(?)
 
 Western "continent": Moraven
 - West (large): Corarica
