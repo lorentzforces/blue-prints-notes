@@ -43,4 +43,8 @@ Darren Kirk
 D---(?) Reva---(?)
 - Former groundskeeper
 - placed backup servers in "cold storage" (Freezer)
-- dismissed for poor job performance
+- dismissed for suspected blackmail
+- got into Room 46
+
+---(?) Nogula
+- Replacement groundskeeper

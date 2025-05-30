@@ -4,6 +4,8 @@
 
 As per "Drafting Strategy Vol 1," blue is _not_ affiliated with any political entity.
 
+"Two realms have the same color banner."
+
 Our "continent" (or island grouping): Orindia
 - North: Arch Aries
   - Icon: Peaky Crown / Mountain
@@ -28,6 +30,7 @@ Our "continent" (or island grouping): Orindia
   - Icon: Diamond
   - Color: Green
   - Ferther Nuance is further and smaller, part of Nuance(?)
+  - Flight transport
 
 Western "continent": Moraven
 - West (large): Corarica

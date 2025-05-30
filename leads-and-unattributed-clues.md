@@ -266,6 +266,7 @@ Sanctum key locations:
   - "the box containing allowance tokens is white" (unknown)
   - "the green notes you find in this room will always be true" (green, is true)
   - "green memos in white boxes are always lies" (blue)
+  - "two realms have the same color banner" (green, is false because white box)
 
 "The fifth key is held by a king on his throne."
 
