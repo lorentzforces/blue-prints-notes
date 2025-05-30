@@ -37,7 +37,7 @@ K---(?) Thom---(?)
 - admin, transfer from Synka, former assistant to H.S. Sinclair
 - Account:
 
-Darren Kirk
+- Kirk Darren
 - security staff
 
 D---(?) Reva---(?)
