@@ -20,9 +20,9 @@ Our "continent" (or island grouping): Orindia
   - Icon: Pentagon
   - Color: Red
   - Associated with fog
+  - Road/carriage (4 diagonal rays)
   - Military culture
   - Notable locations: Fenn (city, contains Royal Museum), Colossus Orinda, Reddington (city, contains Mount Holly), Oris (previous capital?)
-  - 4 rays
   - 8 motes
 - Southwest: Nuance
   - Icon: Diamond
@@ -32,20 +32,22 @@ Our "continent" (or island grouping): Orindia
 Western "continent": Moraven
 - West (large): Corarica
   - Icon: Stocky V/Heart
-  - Color: Orange
+  - Color: Orange or Pink
 - Northeast: Mora Jai
   - Icon: Arch
   - Color: Blue (?)
+  - Seafaring
 - Southeast: Verra
   - Icon: Diagonal single-tooth puzzle piece
-  - Color: Pink (? process of elimination with fragment and Mora Jai being blue)
+  - Color: Orange or Pink (stamp looks more orange)
+  - Turtleback travel
 
 South pole continent is marked with an infinity symbol
 
 Found fragment of a sigil:
-  - cogged line
-  - wavy rays
-  - pie with dots motes
+  - cogged line (pink)
+  - wavy rays (heat)
+  - pie with dots motes (spiritual)
 
 ### Miscellaneous:
 
@@ -76,6 +78,16 @@ Rays/Dividing Lines
 - Falling circles (look like anal beads): snow
 - Bent/curved lines: windy
 - Lines with telephone-pole-like crosses at the end: fog
+- Straight line: lack of inclement weather
+
+Ray count & arrangement:
+- 8: Naval/ship routes/seaports
+- 4 (diagonal): Roads/streets/carriages
+- 4 (vanishing road/horizon): Horseback/rough trails
+- 3 (Y): Train system
+- 5 (rising sun): Aviation/dirigibles/balloons
+- 2 (horizontal): camels/pack mules/arid or desert trails/flat
+- 5 (turtle facing up-right): turtleback
 
 Motes
 - Asterisk: Tribal

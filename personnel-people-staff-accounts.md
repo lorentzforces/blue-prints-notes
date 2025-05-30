@@ -29,15 +29,15 @@ Anne Babbage
 ??? Hartley
 - valet/butler, willed the Lake Trinsdale house
 
-Randolph Moor---(?)
-- Synka related
+Randolph Moore (?)
+- lead lab technition at Synka
 - Account: MoorR (admin)
 
 K---(?) Thom---(?)
 - admin, transfer from Synka, former assistant to H.S. Sinclair
 - Account:
 
-Darren(?) Kirk(?)
+Darren Kirk
 - security staff
 
 D---(?) Reva---(?)
