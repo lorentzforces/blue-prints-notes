@@ -253,14 +253,14 @@ The fireplace has the realm icons over the top of it in this order: ticket, pent
 
 Sanctum key locations:
 
-"The first key found here on the furthest rank,"
+✓ "The first key found here on the furthest rank,"
 - Located in Room 46
 
 "The second locked tight in the vault of a bank,"
 
 "The third is high up, among all the clocks,"
 
-"And the fourth down below, beneath all the docks."
+✓ "And the fourth down below, beneath all the docks."
   - "the pink boxes do not contain any prizes" (blue)
   - "a prize is in a box marked by 'flame icon'" (unknown)
   - "the box containing allowance tokens is white" (unknown)
@@ -270,15 +270,14 @@ Sanctum key locations:
 
 "The fifth key is held by a king on his throne."
 
-"The sixth in a station, left by one of your own,"
+✓ "The sixth in a station, left by one of your own,"
+  - Safehouse acessible via
 
 "The seventh is major if you draft it quite late,"
 
 "And the last key is waiting, behind the last door of eight."
 
-Based on Room 1, these rooms each have a mechanism for the sigil of one realm.
-
-Room 1: Ticket icon (Orinda Aries)
+These rooms each have a mechanism for the sigil of one realm.
 
 ### Great Hall
 
