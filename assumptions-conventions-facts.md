@@ -12,7 +12,7 @@ When talking about room coordinates, we'll index from 1 and [1, 1] will be the l
 
 You are Simon P. Jones.
 
-There are 8 envelopes with 8 individual authors. One letter is missing.
+There are 8 red envelopes with 8 individual authors. One letter is missing. H.S. Sinclair left eight red envelopes around the estate.
 
 The day starts at 0800. Day 1 is Friday, November 6th 1993.
 
@@ -23,8 +23,6 @@ Blue memos = true, Red memos = false (unless written by hand).
 Green memos found in Hartley's room are always false. Green memos otherwise are usually true (although may be conditional on other clues).
 
 > _NOTE:_ This does not imply the _opposite_ of a red memo's statement, just that it is _not true._
-
-Garages can only be drafted in the west wing. The Garage allows access to the West Grounds if the breaker box power is turned on.
 
 The basic terminal password is `swansong`.
 
@@ -84,7 +82,7 @@ Other Special Cases
 
 **Soil Survey:**
 
-These values affect amount of fruit spread from gardens and amount of flowers that can bloom in a Greenhouse.
+These values affect amount of fruit spread from Secret Gardens and amount of flowers that can bloom in a Greenhouse.
 
 For the Greenhouse, the number corresponds to the number of gems that will be available.
 

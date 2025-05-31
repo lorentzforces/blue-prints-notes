@@ -2,16 +2,14 @@
 
 ### Run goals
 
-- Get classrooms for grades 6-8
-- Bring some kind of heat-generating item to the freezer to thaw the cooler
 - Get a power hammer with brick walls (multiple walls in single run, preferably)
 - Find more potential admin accounts for the Blackbridge terminal
 - Find more information about the countries of the world for sigil puzzle reasons
-- Check out _Swim Bird_ and deduce what word it should contribute to the _A New Clue_ puzzle
-- Find/check out the green book referenced in _A New Clue_ and extract info
-- Draft a Drafting Room and obtain the Clock Tower blueprint
+- Double-check the clue from Red Prince for the _A New Clue_ letter-key message
+- Draft the Clock Tower
 - Draft the Throne Room and investigate the throne for sanctum key shit
 - Draft a Music Room in rank 9
+- Get your academic shit together, draft 9 Classrooms, and finish the final exam
 
 ### Unanswered Questions
 
@@ -28,12 +26,13 @@
 - Which room corresponds to the Aquarium setup with two benches, two urns, and a chair?
 - The Closed Exhibit: what about being there at 1:30?
 - East gate access on the grounds?
-- The Den clocks have markings on them suggesting that one of the following times is significant:
+- The Den clocks have markings on them suggesting that the following times may be significant:
   - 3:45 (--)
   - 9:15 (--)
   - 11:05 (V)
   - 12:55 (V)
-  - 1:55??
+  - 1:55?? (the V is a little ambiguous)
+- If "major" means "short name" in Erajan, what does "minor" mean?
 
 ### Current open access problems
 
@@ -253,6 +252,22 @@ The greenhouse can grow plants which produce gems.
   - S Te Am
 - **GRADE 4:** [MUCH GEOGRAPHY](./geography.md)
 - **GRADE 5:** Explanation of art puzzle
+- **GRADE 6:** History, Fenn Aries edition
+  - After the war, Fenn Aries demolished the railways
+  - In the victory picture, fireworks are being shot which are yellow, green, and red.
+  - Quiz:
+    - Who was the first crowned ruler of Fenn Aries? General Teskin
+    - Which city in Fenn Aries is named after a person? Oris
+    - How many sons did the Fourth King of Orindia have? Two (he had a daughter as well)
+    - How long did the "War of the Fifth Era" last? 22 years
+    - Which Realm did not ally with Fenn Aries during the war? Eraja
+    - What flag was forbidden to be flown at full-staff after the war? Black Flag
+- **GRADE 7:** Advanced math
+  - Square: square the result of that step
+  - Diamond: transpose the digits of the result of that step
+  - Wavy lines: round to the digit corresponding to how many wavy lines there are (1: 1s, 2: 10s, 3: 100s)
+- **GRADE 8:** Erajan Language [(see language doc)](./erajan-language.md)
+- **GRADE 9:** Final exam
 
 ### Secret Garden
 

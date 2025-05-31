@@ -1,18 +1,9 @@
 ### Known Recipes
 
+- Sledgehammer + broken lever + battery -> Power hammer
+- Shovel + broken lever + battery -> Jackhammer
+- Shovel + Compass -> Dowsing Rod
+
 ### In-progress recipes
 
-- sledgehammer
-- broken lever
-- battery
-
-- broken lever
-- battery pack
-- ???
-
-Sledgehammer + broken lever + battery -> Power hammer
-
-Shovel + broken lever + battery -> Jackhammer
-
-Shovel + Compass -> Dowsing Rod
-
+- Battery + magnifying glass + ??? -> Laser thingy

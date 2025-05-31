@@ -16,19 +16,21 @@ Our "continent" (or island grouping): Orindia
   - Icon: Hourglass
   - Color: Purple
   - Tradition/magic/poetry (music? based on Ladyship's Chamber having a harp and Eraja iconography)
-  - Transport: Railway?
+  - Transport: Railway? (since it was not allied with Fenn Aries and didn't remove its railways)?
 - Middle: Orinda Aries (3rd era)
   - Icon: Raffle Ticket
   - Color: Black
+  - Weather: Fog
+  - Transport: Railway
+  - Culture: Metropolitan
   - SIGIL DETERMINED
 - Middle: Fenn Aries (current(?) era)
   - Icon: Pentagon
   - Color: Red
-  - Weather: fog
+  - Weather: Fog
   - Transport: Road/carriage (4 diagonal rays)
   - Culture: Military
   - Notable locations: Fenn (city, contains Royal Museum), Colossus Orinda, Reddington (city, contains Mount Holly), Oris (previous capital?)
-  - 8 motes
 - Southwest: Nuance
   - Icon: Diamond
   - Color: Green
@@ -55,6 +57,8 @@ Found fragment of a sigil:
   - cogged line (pink)
   - wavy rays (heat)
   - pie with dots motes (spiritual)
+
+Found stamp: blue, shrine on mountain, five chevrons (the five chevrons are present on the right side of
 
 ### Miscellaneous:
 

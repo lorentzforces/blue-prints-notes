@@ -48,7 +48,7 @@ Kimberly Thompson
 Kirk Darren
 - security staff
 
-D---(?) Reva---(?)
+Denny Revane
 - Former groundskeeper
 - placed backup servers in "cold storage" (Freezer)
 - dismissed for suspected blackmail
