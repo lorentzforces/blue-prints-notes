@@ -12,7 +12,6 @@
 - Draft a Drafting Room and obtain the Clock Tower blueprint
 - Draft the Throne Room and investigate the throne for sanctum key shit
 - Draft a Music Room in rank 9
-- Find and use a fourth Vault key
 
 ### Unanswered Questions
 
@@ -99,7 +98,7 @@
   - RED page A word X (The Red Prince, page 4 word 1, "the")
   - GREEN page C word A
   - VIOLET page B word Y (A New Clue, page 5 word 2, "looked")
-  - BLUE page Z word X
+  - BLUE page Z word X (Swim Bird, page 3 word 1, "diving")
 
 A picture of the detective in a hall of records, reading a blueprint with a hammer and a blue + gold urn behind him
 
