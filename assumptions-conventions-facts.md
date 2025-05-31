@@ -20,7 +20,7 @@ The day starts at 0800. Day 1 is Friday, November 6th 1993.
 
 Blue memos = true, Red memos = false (unless written by hand).
 
-Green memos found in Hartley's room are always false.
+Green memos found in Hartley's room are always false. Green memos otherwise are usually true (although may be conditional on other clues).
 
 > _NOTE:_ This does not imply the _opposite_ of a red memo's statement, just that it is _not true._
 

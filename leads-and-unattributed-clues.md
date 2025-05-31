@@ -27,6 +27,14 @@
 - In the Safehouse (Reservoir Station), there is a picture of a crack in a wall near a curving staircase. This is the wall in the chess puzzle room.
 - In the Safehouse, there is a picture of security monitors, with A on one (second from top-right) with the note "delete it!" written next to it. This corresponds to a view of the Archives. ???
 - Which room corresponds to the Aquarium setup with two benches, two urns, and a chair?
+- The Closed Exhibit: what about being there at 1:30?
+- East gate access on the grounds?
+- The Den clocks have markings on them suggesting that one of the following times is significant:
+  - 3:45 (--)
+  - 9:15 (--)
+  - 11:05 (V)
+  - 12:55 (V)
+  - 1:55??
 
 ### Current open access problems
 
