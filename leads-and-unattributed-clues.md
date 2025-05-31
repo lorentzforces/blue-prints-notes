@@ -89,16 +89,23 @@
 
 #### _A New Clue_
 
+- The pile of books by the detective has the following titles, which are anagrams:
+  - TENDER CIPHER (THE RED PRINCE)
+  - LUNAR RENAMED (REALM AND RUNE)
+  - UNCLE AWE (A NEW CLUE)
+  - DRAFT THE SIXES (THE FIXED STARS)
+
 - _A New Clue_ includes a picture of a woman with a yellow turn sign
 - _A New Clue_ letter -> order key: X -> Y -> Z -> A -> B -> C
+  - X:8 Y:7 Z:3 A:10 B:1 C:13
 - has a purple cover
 - published by "Sundial Publishing, 1988"
 
 "Assume page count starts on title pages"
-  - RED page A word X (The Red Prince, page 4 word 1, "the")
-  - GREEN page C word A
-  - VIOLET page B word Y (A New Clue, page 5 word 2, "looked")
-  - BLUE page Z word X (Swim Bird, page 3 word 1, "diving")
+  - RED page A word X (The Red Prince, page 10 word 8, "")
+  - GREEN page C word A (Realm and Rune, page 13 word 10, "scorched")
+  - VIOLET page B word Y (A New Clue, page 1 word 7, "sundial")
+  - BLUE page Z word X (The Fixed Stars, page 3 word 8, "base")
 
 A picture of the detective in a hall of records, reading a blueprint with a hammer and a blue + gold urn behind him
 

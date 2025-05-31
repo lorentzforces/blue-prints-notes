@@ -6,7 +6,7 @@
 
 Née Epsen
 
-Aliases: Marion Marigold, Jean Ribbon, Samantha Hayes, Grey Daniels
+Aliases: Marion Marigold, Jean Ribbon, Samantha Hayes, Grey Daniels, Mary Christmas
 
 Codename: Marigold
 
@@ -33,7 +33,7 @@ Randolph Moore (?)
 - lead lab technition at Synka
 - Account: MoorR (admin)
 
-K---(?) Thom---(?)
+Kimberly Thompson
 - admin, transfer from Synka, former assistant to H.S. Sinclair
 - Account:
 
