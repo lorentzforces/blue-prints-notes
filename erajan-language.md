@@ -2,7 +2,7 @@
 
 Early Erajan did not use any verbs, so today the rare usage of verbs are comprised almost entirely of loan words and are mainly used to describe physical actions.
 
-Modifiers take the form of affixes
+Modifiers take the form of affixes, which typically have a standard and inverted form which are present at the beginning or end (reversed) of the word, respectively.
 
 ### Base vocabulary
 
@@ -18,13 +18,14 @@ Known:
 - INN (north)
 - ORR (west)
 - ETT (east)
-- ISS (south) JOR (name)
+- ISS (south)
+- JOR (name)
 - RAA (very very)
 - SEI (sea/ocean)
-- FENN (unknown)
 
 Tentative or unknown:
 - MORA (world?)
+- FENN
 
 ### Affixes
 
@@ -38,7 +39,6 @@ Tentative or unknown:
 | NEV (new/start of)       | VEN (old/end of)         |
 | EL (I/me)                | LE (lack of myself)      |
 | UL (you)                 | LU (lack of you)         |
-| AJ (first)               | JA (last)                |
 
 **Tentative:**
 
