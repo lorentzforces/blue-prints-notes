@@ -271,7 +271,7 @@ Chess puzzle:
 | Pawn      | Knight    | Bishop    | Rook      | Queen     | King      |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Den       | Obsrvatry | Chapel    | Nook      | Study     | Office    |
-| Storeroom | Security  | Bookshop  | Vault     |           |           |
+| Storeroom | Security  | Bookshop  | Vault     | Lady's Rm |           |
 | Scrt Pass | Armory    | Attic     | Consrvtry |           |           |
 | Parlour   | Treasure  |           |           |           |           |
 | Nursery   |           |           |           |           |           |

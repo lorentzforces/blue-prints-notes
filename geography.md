@@ -15,7 +15,7 @@ Our "continent" (or island grouping): Orindia
 - South: Eraja [Arie]
   - Icon: Hourglass
   - Color: Purple
-  - Tradition/magic/poetry
+  - Tradition/magic/poetry (music? based on Ladyship's Chamber having a harp and Eraja iconography)
   - Transport: Railway?
 - Middle: Orinda Aries (3rd era)
   - Icon: Raffle Ticket
@@ -114,7 +114,7 @@ Border
 - Cogged line: pink
 - Diagonal straight lines: green
 - Zigzag: yellow
-- Empty triangles: orange
+- Triangles: orange
 
 ### Eight realms in eight months
 
