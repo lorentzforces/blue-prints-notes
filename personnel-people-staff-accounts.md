@@ -47,6 +47,7 @@ Kimberly Thompson
 
 Kirk Darren
 - security staff
+- "Kirk Darren is a pseudonym"
 
 Denny Revane
 - Former groundskeeper

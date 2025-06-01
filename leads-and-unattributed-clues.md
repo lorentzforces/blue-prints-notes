@@ -3,14 +3,19 @@
 ### Run goals
 
 - Get a power hammer with brick walls (multiple walls in single run, preferably)
+  - Greenhouse
+  - Tomb
+  - Weight Room (known but might as well if it's straightforward)
 - Find more information about the countries of the world for sigil puzzle reasons
-- Draft a Music Room in rank 9
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
-- Drain the Aquarium and check it
 - Drain the Greenhouse and check it
-- Blow up the Trading Post
 - Be in the Clock Tower at 1:30
 - Get a shitload of money, draft a Chapel, draft a Showroom, break the piggy bank, and buy everything. (remember the additional trophy is §110)
+- Double-check the Kennel for the cat picture clue to verify whether it is definitely referencing the Chess room letters puzzle.
+- Fill in the rest of the Chess room letters puzzle.
+- With a shovel, access the locations with clues from the Aquarium (Laundry, Archives, and Patio)
+  1. Laundry - gives file cabinet key
+- Check stamps in the Mail Room with a magnifying glass
 
 ### Unanswered Questions
 
@@ -33,13 +38,13 @@
   - 1:55?? (the V is a little ambiguous)
 - If "major" means "short name" in Erajan, what does "minor" mean?
 - The birdbath by the outdoor entrance to the Basement has flagstones arranged around it in a circle of 8, with an outer circle of 16 stones. This seems significant. (planet clues from 3rd era map?)
+- There may be a releationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
 
 ### Current open access problems
 
 - Terminal in Blackbridge Grotto requires an "admin key" to log in
   - First four letters of last name followed by first initial, 1st and 5th character capitalized)
   - Still need to find a "higher admin" or hidden admin account for this terminal
-- Door in Blackbridge Grotto seems to want a microchip, but the microchip that begins there can also be moved?
 - the Precipice has an uninteractable, closed door
 
 ### Utility Closet
@@ -205,6 +210,10 @@ The greenhouse contains a broken lever which opens the South Antechamber door.
 
 The greenhouse can grow plants which produce gems.
 
+### Tomb
+
+There may be a releationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
+
 ### Catacombs
 
 - Accessible via Tomb after manipulating the angel statues in this order:
@@ -301,6 +310,17 @@ Chess puzzle:
 | Lost&Fnd  |           |           |           |           |           |
 | Freezer   |           |           |           |           |           |
 | Dorm      |           |           |           |           |           |
+
+Broken wall puzzle:
+
+| 1 | 2 | 3 |
+|---|---|---|
+| C | A | T |
+| A |   |   |
+| S |   |   |
+| T |   |   |
+| L |   |   |
+| E |   |   |
 
 ### Billiard Room
 
@@ -424,4 +444,4 @@ Several rooms are represented in the tanks:
 - Bedroom
 - Patio (X in front of smoker)
 - Laundry (X in front of middle WASHING machine (top-load))
-- two bench seats, two urns, and a chair with an oval back (Drawing Room?)
+- Corridor
