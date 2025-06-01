@@ -13,8 +13,7 @@
 - Get a shitload of money, draft a Chapel, draft a Showroom, break the piggy bank, and buy everything. (remember the additional trophy is §110)
 - Double-check the Kennel for the cat picture clue to verify whether it is definitely referencing the Chess room letters puzzle.
 - Fill in the rest of the Chess room letters puzzle.
-- With a shovel, access the locations with clues from the Aquarium (Laundry, Archives, and Patio)
-  1. Laundry - gives file cabinet key
+- Get File Cabinet Keys from the Laundry & Patio and open more file cabinet drawers in the Archives (opened: bottom)
 - Check stamps in the Mail Room with a magnifying glass
 
 ### Unanswered Questions

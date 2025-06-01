@@ -275,3 +275,9 @@ Eastward I see a crow,
 Dark are the days coming fourth.
 
 _symbol of Orinda Aries_
+
+### Small note in Kennell
+
+_Depicts a cat standing on a "T" block reaching for two stacked blocks "C" and "A"_
+
+> _This may be reversed and relevant to the Chess wall letter puzzle, since the "T" is separate from the other two letters_

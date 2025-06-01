@@ -11,12 +11,13 @@ Our "continent" (or island grouping): Orindia
   - Icon: Peaky Crown / Mountain
   - Color: Yellow
   - Associated with storms
-  - Transport: Railway?
-- South: Eraja [Arie]
+  - NOTE: I have tried this with every possible combination of [rough trails, pack mules] and [tribal, academic, industrial] and none of them worked, so some assumption I have is wrong (so probably some overlap in some other regard with other realms?)
+- ✓ South: Eraja [Arie]
   - Icon: Hourglass
   - Color: Purple
   - Culture: Poetic
   - Transport: Railway? (since it was not allied with Fenn Aries and didn't remove its railways)?
+  - Weather: Rainy
 - ✓ Middle: Orinda Aries (3rd era)
   - Icon: Raffle Ticket
   - Color: Black
@@ -41,15 +42,17 @@ Western "continent": Moraven
 - West (large): Corarica
   - Icon: Stocky V/Heart
   - Color: Orange
-- Northeast: Mora Jai
+- ✓ Northeast: Mora Jai
   - Icon: Arch
-  - Color: Blue (?)
-  - Seafaring
-  - Culture: Possibly Academic based on the fact that Mora Jai boxes have the name that they do
-- Southeast: Verra
+  - Color: White
+  - Transport: Seafaring
+  - Culture: Agricultural
+- ✓ Southeast: Verra
   - Icon: Diagonal single-tooth puzzle piece
-  - Color: Pink (probably, stamp looks more orange)
+  - Color: Pink
   - Turtleback travel
+  - Weather: Hot
+  - Culture: spiritual
 
 Found sigil fragment:
   - cogged line (pink)
@@ -89,32 +92,32 @@ Core (denotes countries)
 - Arch: Mora Jai
 
 Rays/Dividing Lines
-- Wavy lines: heat
-- Three vertical lines: rainy
-- Jagged line: stormy
+- ✓ Wavy lines: heat
+- ✓ Three vertical lines: rainy
+- ✓ Jagged line: stormy
 - Falling circles (look like anal beads): snow
 - Bent/curved lines: windy
-- Lines with telephone-pole-like crosses at the end: fog
-- Straight line: lack of inclement weather
+- ✓ Lines with telephone-pole-like crosses at the end: fog
+- ✓ Straight line: lack of inclement weather
 
 Ray count & arrangement:
-- 8: Naval/ship routes/seaports
-- 4 (diagonal): Roads/streets/carriages
+- ✓ 8: Naval/ship routes/seaports
+- ✓ 4 (diagonal): Roads/streets/carriages
 - 4 (vanishing road/horizon): Horseback/rough trails
-- 3 (Y): Train system
-- 5 (rising sun): Aviation/dirigibles/balloons
+- ✓ 3 (Y): Train system
+- ✓ 5 (rising sun): Aviation/dirigibles/balloons
 - 2 (horizontal): camels/pack mules/arid or desert trails/flat
-- 5 (turtle facing up-right): turtleback
+- ✓ 5 (turtle facing up-right): turtleback
 
 Motes
 - Asterisk: Tribal
-- Bean: Agricultural
-- Cartoon fang triangles: Martial
-- Cut-corner building: Metropolitan
+- ✓ Bean: Agricultural
+- ✓ Cartoon fang triangles: Martial
+- ✓ Cut-corner building: Metropolitan
 - Three vertical lines: Academic
 - Square with dot: Industrial
-- Pie with dots: Spiritual
-- Flower: Poetic
+- ✓ Pie with dots: Spiritual
+- ✓ Flower: Poetic
 
 Border
 - Empty circles: white
@@ -129,4 +132,7 @@ Border
 ### Eight realms in eight months
 
 - Started going South (postmarked Orinda Aries, Black Bridge)
+- Mora Jai comes after an ocean crossing
+- Verra comes after Mora Jai
+- Eraja does not have timing clues, but puddles and ponds are mentioned
 - Fenn Aries is last
