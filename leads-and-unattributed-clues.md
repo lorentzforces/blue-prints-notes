@@ -300,6 +300,7 @@ Chess puzzle:
 | Bunk Room |           |           |           |           |           |
 | Lost&Fnd  |           |           |           |           |           |
 | Freezer   |           |           |           |           |           |
+| Dorm      |           |           |           |           |           |
 
 ### Billiard Room
 
@@ -419,12 +420,8 @@ For a given star count, the constellations seen are deterministic. I'm not gonna
 ### Aquarium
 
 Several rooms are represented in the tanks:
-- Archives
+- Archives (↑ in front of a filing cabinet in the middle of two bookshelves)
 - Bedroom
-- Patio
-- Laundry
+- Patio (X in front of smoker)
+- Laundry (X in front of middle WASHING machine (top-load))
 - two bench seats, two urns, and a chair with an oval back (Drawing Room?)
-
-### Clock Tower
-
-- The

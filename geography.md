@@ -40,7 +40,7 @@ Our "continent" (or island grouping): Orindia
 Western "continent": Moraven
 - West (large): Corarica
   - Icon: Stocky V/Heart
-  - Color: Orange or Pink
+  - Color: Orange
 - Northeast: Mora Jai
   - Icon: Arch
   - Color: Blue (?)
@@ -48,7 +48,7 @@ Western "continent": Moraven
   - Culture: Possibly Academic based on the fact that Mora Jai boxes have the name that they do
 - Southeast: Verra
   - Icon: Diagonal single-tooth puzzle piece
-  - Color: Orange or Pink (stamp looks more orange)
+  - Color: Pink (probably, stamp looks more orange)
   - Turtleback travel
 
 Found sigil fragment:
