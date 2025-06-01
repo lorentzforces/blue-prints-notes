@@ -11,6 +11,9 @@ _(found in Laboratory)_
 _(found at bottom of reservoir)_
 > THE PINK BOXES DO NOT CONTAIN ANY PRIZES
 
+_(mailed to me)_
+> THERE IS A SAFE ON RANK 10
+
 ### Red memos
 
 _(found in Conference Room)_

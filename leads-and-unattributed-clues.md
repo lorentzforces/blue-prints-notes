@@ -7,9 +7,10 @@
 - Find more information about the countries of the world for sigil puzzle reasons
 - Double-check the clue from Red Prince for the _A New Clue_ letter-key message
 - Draft the Clock Tower
-- Draft the Throne Room and investigate the throne for sanctum key shit
 - Draft a Music Room in rank 9
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
+- Drain the Aquarium and check it
+- Drain the Greenhouse and check it
 
 ### Unanswered Questions
 
@@ -101,7 +102,7 @@
 - published by "Sundial Publishing, 1988"
 
 "Assume page count starts on title pages"
-  - RED page A word X (The Red Prince, page 10 word 8, "")
+  - RED page A word X (The Red Prince, page 10 word 8, "turn")
   - GREEN page C word A (Realm and Rune, page 13 word 10, "scorched")
   - VIOLET page B word Y (A New Clue, page 1 word 7, "sundial")
   - BLUE page Z word X (The Fixed Stars, page 3 word 8, "base")
@@ -286,9 +287,9 @@ Chess puzzle:
 | Pawn      | Knight    | Bishop    | Rook      | Queen     | King      |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Den       | Obsrvatry | Chapel    | Nook      | Study     | Office    |
-| Storeroom | Security  | Bookshop  | Vault     | Lady's Rm |           |
+| Storeroom | Security  | Bookshop  | Vault     | Lady's Rm | Throne Rm |
 | Scrt Pass | Armory    | Attic     | Consrvtry |           |           |
-| Parlour   | Treasure  |           |           |           |           |
+| Parlour   | Treasure  | Rumpus Rm |           |           |           |
 | Nursery   |           |           |           |           |           |
 | Drwing Rm |           |           |           |           |           |
 | WlkInClst |           |           |           |           |           |

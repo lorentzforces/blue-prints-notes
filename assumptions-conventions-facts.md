@@ -42,8 +42,10 @@ Antechamber Lever locations:
 - NORTH (to Room 46): Basement
 - > "One back up lever for each Antechamber door has been installed in separate locations for redundancy."
 
-- Secondary: south lever in weight room (may be behind suspicious brick wall)
-- Secondary: east lever also in secret garden (break brick wall, arrows away from secret window)
+- Secondary: south lever in Weight Room (may be behind suspicious brick wall)
+- Secondary: east lever also in Secret Garden (break brick wall, arrows away from secret window)
+- Secondary: west lever ???
+- Secondary: north lever in Throne room
 
 There is a hamster in the Bunk Room.
 
