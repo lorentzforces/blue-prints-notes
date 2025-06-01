@@ -259,3 +259,19 @@ _(after student correspondence from Mary to her mother)_
 We are returning east and should arrive on tuesday.
 
 if coast is not clear, lower the FD _(unsure here, FD/SD/LD?)_ to warn us
+
+### Poem in Clock Tower
+
+Southward I see a swan,
+
+Ashen like sands of the shore,
+
+Carried by westwardly winds,
+
+Rogue like the moon of the north.
+
+Eastward I see a crow,
+
+Dark are the days coming fourth.
+
+_symbol of Orinda Aries_

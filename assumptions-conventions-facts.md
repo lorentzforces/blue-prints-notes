@@ -68,7 +68,7 @@ West wing ONLY
 
 East Wing ONLY
 - East Wing Hall
-- Master Bedroom
+- Master Bedroom (potentially also draftable in rank 9?)
 
 The following rooms can only be drafted in the East **AND** West Wings:
 - Terrace

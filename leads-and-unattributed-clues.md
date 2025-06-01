@@ -3,14 +3,14 @@
 ### Run goals
 
 - Get a power hammer with brick walls (multiple walls in single run, preferably)
-- Find more potential admin accounts for the Blackbridge terminal
 - Find more information about the countries of the world for sigil puzzle reasons
-- Double-check the clue from Red Prince for the _A New Clue_ letter-key message
-- Draft the Clock Tower
 - Draft a Music Room in rank 9
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Drain the Aquarium and check it
 - Drain the Greenhouse and check it
+- Blow up the Trading Post
+- Be in the Clock Tower at 1:30
+- Get a shitload of money, draft a Chapel, draft a Showroom, break the piggy bank, and buy everything. (remember the additional trophy is §110)
 
 ### Unanswered Questions
 
@@ -34,6 +34,7 @@
   - 12:55 (V)
   - 1:55?? (the V is a little ambiguous)
 - If "major" means "short name" in Erajan, what does "minor" mean?
+- The birdbath by the outdoor entrance to the Basement has flagstones arranged around it in a circle of 8, with an outer circle of 16 stones. This seems significant. (planet clues from 3rd era map?)
 
 ### Current open access problems
 
@@ -289,7 +290,7 @@ Chess puzzle:
 | Den       | Obsrvatry | Chapel    | Nook      | Study     | Office    |
 | Storeroom | Security  | Bookshop  | Vault     | Lady's Rm | Throne Rm |
 | Scrt Pass | Armory    | Attic     | Consrvtry |           |           |
-| Parlour   | Treasure  | Rumpus Rm |           |           |           |
+| Parlour   | Treasure  | Rumpus Rm | Clock Twr |           |           |
 | Nursery   |           |           |           |           |           |
 | Drwing Rm |           |           |           |           |           |
 | WlkInClst |           |           |           |           |           |
@@ -363,7 +364,8 @@ Sanctum key locations:
 "The second locked tight in the vault of a bank,"
 
 "The third is high up, among all the clocks,"
-  - Clock Tower, need
+  - Clock Tower
+  - See poetic note about swans and directions
 
 ✓ "And the fourth down below, beneath all the docks."
   - "the pink boxes do not contain any prizes" (blue)
@@ -424,3 +426,7 @@ Several rooms are represented in the tanks:
 - Patio
 - Laundry
 - two bench seats, two urns, and a chair with an oval back (Drawing Room?)
+
+### Clock Tower
+
+- The
