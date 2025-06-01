@@ -17,14 +17,14 @@ Our "continent" (or island grouping): Orindia
   - Color: Purple
   - Culture: Poetic
   - Transport: Railway? (since it was not allied with Fenn Aries and didn't remove its railways)?
-- Middle: Orinda Aries (3rd era)
+- ✓ Middle: Orinda Aries (3rd era)
   - Icon: Raffle Ticket
   - Color: Black
   - Weather: Fog
   - Transport: Railway
   - Culture: Metropolitan
   - SIGIL DETERMINED
-- Middle: Fenn Aries (current(?) era)
+- ✓ Middle: Fenn Aries (current(?) era)
   - Icon: Pentagon
   - Color: Red
   - Weather: Fog
@@ -44,7 +44,14 @@ Western "continent": Moraven
 - Northeast: Mora Jai
   - Icon: Arch
   - Color: Blue (?)
-  - Seafarinragment of a sigil:
+  - Seafaring
+  - Culture: Possibly Academic based on the fact that Mora Jai boxes have the name that they do
+- Southeast: Verra
+  - Icon: Diagonal single-tooth puzzle piece
+  - Color: Orange or Pink (stamp looks more orange)
+  - Turtleback travel
+
+Found sigil fragment:
   - cogged line (pink)
   - wavy rays (heat)
   - pie with dots motes (spiritual)
@@ -54,6 +61,8 @@ Found fragment of a sigil:
   - flower motes (poetic)
 
 Found stamp: blue, shrine on mountain, five chevrons (the five chevrons are present on the right side of
+
+South pole continent is marked with an infinity symbol
 
 ### Miscellaneous:
 
@@ -73,9 +82,11 @@ Core (denotes countries)
 - Pentagon: Fenn Aries
 - Peaky crown: Arch Aries (northern, associated with storms?)
 - Hourglass: Eraja (southern)
-- Raffle ticket: Orindia (middle island, succeeded by Fenn Aries)
+- Raffle ticket: Orinda Aries (middle island, succeeded by Fenn Aries)
 - Stocky V: Corarica
 - Diamond: Nuance
+- Diagonal puzzle piece: Verra
+- Arch: Mora Jai
 
 Rays/Dividing Lines
 - Wavy lines: heat

@@ -28,7 +28,7 @@ The drafting room shows that there is a safe in the room with a built-in writing
 - 11-11-1986 (Marion Marigold & others detained after Trinsdale bombing)
 - 02-22-1987 (Story about disappearance of Mary Matthew Jones _aka_ Marion Marigold)
 - 02-20-1987 (Day Marion/Mary disappeared, a Friday)
-- 10-06 (Fenn Aries Prince Leerson coup vs Desilets IV fter passing of Desilets III the prior day)
+- 10-06 (Fenn Aries Prince Leerson coup vs Desilets IV after passing of Desilets III the prior day)
 - 11-04-1993 (Day H.S. Sinclair died, Wednesday)
 - 11-07-1993 (Day 1, Saturday)
 

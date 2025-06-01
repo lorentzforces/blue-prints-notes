@@ -15,8 +15,6 @@
 ### Unanswered Questions
 
 - Are doors with keyholes just _potentially_ locked, and doors without keyholes never locked?
-- Data transfers from Synka? (mentioned in terminals, still unknown since admin access to the Blackbridge Grotto terminal didn't enable this so far as I can tell)
-- The Schoolhouse adds 8 Classrooms to the deck, we've gotten to grade 5
 - The insurgent group that these people seemed to be a part of was called "The Children of Black Water," which seems to be a parallel name to "Blackbridge" being the network and grotto name. Their group is also called RLCF - what does that stand for?
 - Who the fuck is Samantha Hayes?
   - _a.k.a_ Marion Matthew Jones neé Epsen _a.k.a._ Marion Marigold _a.k.a._ Jean Ribbon
@@ -361,9 +359,9 @@ Sanctum key locations:
 ✓ "The first key found here on the furthest rank,"
   - Located in Room 46
 
-"The second locked tight in the vault of a bank,"
+✓ "The second locked tight in the vault of a bank,"
 
-"The third is high up, among all the clocks,"
+✓ "The third is high up, among all the clocks,"
   - Clock Tower
   - See poetic note about swans and directions
 
@@ -375,13 +373,13 @@ Sanctum key locations:
   - "green memos in white boxes are always lies" (blue)
   - "two realms have the same color banner" (green, is false because white box)
 
-"The fifth key is held by a king on his throne."
+✓ "The fifth key is held by a king on his throne."
   - The Throne Room is now an available blueprint
 
 ✓ "The sixth in a station, left by one of your own,"
   - Safehouse acessible via
 
-"The seventh is major if you draft it quite late,"
+✓ "The seventh is major if you draft it quite late,"
   - Draft Music Room in 9th rank?
 
 "And the last key is waiting, behind the last door of eight."
