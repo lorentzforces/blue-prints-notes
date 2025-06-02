@@ -10,7 +10,8 @@ Our "continent" (or island grouping): Orindia
 - North: Arch Aries
   - Icon: Peaky Crown / Mountain
   - Color: Yellow
-  - Associated with storms
+  - Weather: Storms
+  - Culture: Industrial
   - NOTE: I have tried this with every possible combination of [rough trails, pack mules] and [tribal, academic, industrial] and none of them worked, so some assumption I have is wrong (so probably some overlap in some other regard with other realms?)
 - ✓ South: Eraja [Arie]
   - Icon: Hourglass
@@ -36,23 +37,27 @@ Our "continent" (or island grouping): Orindia
   - Icon: Diamond
   - Color: Green
   - Flight transport
+  - Weather: wind (??)
   - random fact: Ferther Nuance is further and smaller, part of Nuance(?)
 
 Western "continent": Moraven
 - West (large): Corarica
   - Icon: Stocky V/Heart
   - Color: Orange
+  - Weather: Snow
+  - Culture: Academic
 - ✓ Northeast: Mora Jai
   - Icon: Arch
   - Color: White
   - Transport: Seafaring
   - Culture: Agricultural
+  - Weather: Calm
 - ✓ Southeast: Verra
   - Icon: Diagonal single-tooth puzzle piece
   - Color: Pink
   - Turtleback travel
   - Weather: Hot
-  - Culture: spiritual
+  - Culture: Spiritual
 
 Found sigil fragment:
   - cogged line (pink)
@@ -115,7 +120,7 @@ Motes
 - ✓ Cartoon fang triangles: Martial
 - ✓ Cut-corner building: Metropolitan
 - Three vertical lines: Academic
-- Square with dot: Industrial
+- ✓ Square with dot: Industrial
 - ✓ Pie with dots: Spiritual
 - ✓ Flower: Poetic
 
