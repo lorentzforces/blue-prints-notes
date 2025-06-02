@@ -2,14 +2,12 @@
 
 ### Run goals
 
-- Get a power hammer with brick walls (multiple walls in single run, preferably)
-  - Greenhouse
+- Get a power hammer with the Greenhouse and knock that wall down
 - Find more information about the countries of the world for sigil puzzle reasons
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
-- Drain the Greenhouse and check it
 - Fill in the rest of the Chess room letters puzzle.
-- Get File Cabinet Keys from the Laundry and open more file cabinet drawers in the Archives (opened: bottom)
-- Find the 8th sanctum key behind the
+- Find the 8th sanctum key behind the "last door of eight"
+- Call it a day in the Bunk Room and check the Tomb the next day
 
 ### Unanswered Questions
 
@@ -30,6 +28,7 @@
 - If "major" means "short name" in Erajan, what does "minor" mean?
 - The birdbath by the outdoor entrance to the Basement has flagstones arranged around it in a circle of 8, with an outer circle of 16 stones. This seems significant. (planet clues from 3rd era map?)
 - There may be a relationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
+- Staff contracts are apparently available somehow in Room 46...
 
 ### Current open access problems
 
@@ -434,3 +433,14 @@ Several rooms are represented in the tanks:
 - Patio (X in front of smoker)
 - Laundry (X in front of middle WASHING machine (top-load))
 - Corridor
+
+### Her Ladyship's Chamber
+
+Her diary, room of sleep with effects:
+- Her Ladyship's Chamber: Awoke following morning with 10 less steps but additional star in the sky
+- Guest Bedroom: Nothing special
+- Bunk Room: Family tomb grave had a flower on it
+- Servant's Quarters: Half steps following day, with a bonus die
+- Master Bedroom: More steps than usual
+
+Additionally there is a map of the west grounds at the back of the book, with what _appears_ to be a highlighted north corner of the space where the shed is

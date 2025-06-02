@@ -44,7 +44,7 @@ Antechamber Lever locations:
 
 - Secondary: south lever in Weight Room (may be behind suspicious brick wall)
 - Secondary: east lever also in Secret Garden (break brick wall, arrows away from secret window)
-- Secondary: west lever ???
+- Secondary: west lever in Mechanarium (access method unknown)
 - Secondary: north lever in Throne room
 
 There is a hamster in the Bunk Room.

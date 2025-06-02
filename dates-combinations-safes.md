@@ -31,6 +31,7 @@ The drafting room shows that there is a safe in the room with a built-in writing
 - 10-06 (Fenn Aries Prince Leerson coup vs Desilets IV after passing of Desilets III the prior day)
 - 11-04-1993 (Day H.S. Sinclair died, Wednesday)
 - 11-07-1993 (Day 1, Saturday)
+- 01-28-1979 (Date of Simon Jones' birth)
 
 ### Art letter puzzle message:
 

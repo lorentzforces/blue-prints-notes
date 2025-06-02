@@ -54,6 +54,8 @@ Denny Revane
 - placed backup servers in "cold storage" (Freezer)
 - dismissed for suspected blackmail
 - got into Room 46
+- pressed "Christoph" into helping him
+- blackmailed based on
 
 ---(?) Nogula
 - Replacement groundskeeper
