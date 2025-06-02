@@ -152,9 +152,7 @@ Following metro map: (8) Royal Station -> (7) Angel Tower -> (3) Aries Crossing 
 
 Memos on final page: "The suspect is minor" (blue), "The suspect is major" (red, handwritten), "The suspect is miner" (red, printed), followed by in white "the suspect is A. Key"
 
-If we take "A key" to be the position in the list of the letter A (in this book's cipher/ordering), that would be 4
-
-> Major Nicolas Key IV?
+If we take "A key" to be the position in the list of the letter A (in this book's cipher/ordering), that would be 10
 
 ### Root Cellar
 
