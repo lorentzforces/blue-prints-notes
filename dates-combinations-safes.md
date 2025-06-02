@@ -9,7 +9,7 @@
 | Office       | 0303        | #8     | March (03) + count of busts of count (3)          |
 | Drawing Room | 0415        | #6     | Women w/ small "gaits" + men w/ same              |
 | Upper Cogs   | MAY8        | #1     | 8 = only number MAY = only month w/ given letters |
-| (presumed)   |             |        |                                                   |
+| Drfting Stdio| 1108        | #5     | Gates in calendar picture / November              |
 
 The drafting room shows that there is a safe in the room with a built-in writing desk. The safe is to the left of the desk.
 

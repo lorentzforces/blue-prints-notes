@@ -12,12 +12,12 @@ Our "continent" (or island grouping): Orindia
   - Color: Yellow
   - Weather: Storms
   - Culture: Industrial
-  - NOTE: I have tried this with every possible combination of [rough trails, pack mules] and [tribal, academic, industrial] and none of them worked, so some assumption I have is wrong (so probably some overlap in some other regard with other realms?)
+  - Transport: Railway
 - ✓ South: Eraja [Arie]
   - Icon: Hourglass
   - Color: Purple
   - Culture: Poetic
-  - Transport: Railway? (since it was not allied with Fenn Aries and didn't remove its railways)?
+  - Transport: Railway (since it was not allied with Fenn Aries and didn't remove its railways)?
   - Weather: Rainy
 - ✓ Middle: Orinda Aries (3rd era)
   - Icon: Raffle Ticket
@@ -46,6 +46,7 @@ Western "continent": Moraven
   - Color: Orange
   - Weather: Snow
   - Culture: Academic
+  - Transport: Roads/carriage
 - ✓ Northeast: Mora Jai
   - Icon: Arch
   - Color: White
@@ -107,9 +108,9 @@ Rays/Dividing Lines
 
 Ray count & arrangement:
 - ✓ 8: Naval/ship routes/seaports
-- ✓ 4 (diagonal): Roads/streets/carriages
+- ✓✓ 4 (diagonal): Roads/streets/carriages
 - 4 (vanishing road/horizon): Horseback/rough trails
-- ✓ 3 (Y): Train system
+- ✓✓ 3 (Y): Train system
 - ✓ 5 (rising sun): Aviation/dirigibles/balloons
 - 2 (horizontal): camels/pack mules/arid or desert trails/flat
 - ✓ 5 (turtle facing up-right): turtleback
@@ -119,7 +120,7 @@ Motes
 - ✓ Bean: Agricultural
 - ✓ Cartoon fang triangles: Martial
 - ✓ Cut-corner building: Metropolitan
-- Three vertical lines: Academic
+- ✓ Three vertical lines: Academic
 - ✓ Square with dot: Industrial
 - ✓ Pie with dots: Spiritual
 - ✓ Flower: Poetic
@@ -137,7 +138,9 @@ Border
 ### Eight realms in eight months
 
 - Started going South (postmarked Orinda Aries, Black Bridge)
+- Arch Aries comes immediately after another location on the same continent (probably Eraja)
 - Mora Jai comes after an ocean crossing
 - Verra comes after Mora Jai
+- Corarica comes immediately after Verra
 - Eraja does not have timing clues, but puddles and ponds are mentioned
 - Fenn Aries is last

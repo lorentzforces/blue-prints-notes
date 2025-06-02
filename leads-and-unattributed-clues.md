@@ -4,17 +4,12 @@
 
 - Get a power hammer with brick walls (multiple walls in single run, preferably)
   - Greenhouse
-  - Tomb
-  - Weight Room (known but might as well if it's straightforward)
 - Find more information about the countries of the world for sigil puzzle reasons
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Drain the Greenhouse and check it
-- Be in the Clock Tower at 1:30
-- Get a shitload of money, draft a Chapel, draft a Showroom, break the piggy bank, and buy everything. (remember the additional trophy is §110)
-- Double-check the Kennel for the cat picture clue to verify whether it is definitely referencing the Chess room letters puzzle.
 - Fill in the rest of the Chess room letters puzzle.
-- Get File Cabinet Keys from the Laundry & Patio and open more file cabinet drawers in the Archives (opened: bottom)
-- Check stamps in the Mail Room with a magnifying glass
+- Get File Cabinet Keys from the Laundry and open more file cabinet drawers in the Archives (opened: bottom)
+- Find the 8th sanctum key behind the
 
 ### Unanswered Questions
 
@@ -24,9 +19,6 @@
   - _a.k.a_ Marion Matthew Jones neé Epsen _a.k.a._ Marion Marigold _a.k.a._ Jean Ribbon
   - Two Fenn Aries passports found so far for "Jean Ribbon" and "Samantha Hayes"
 - Does the three-mountain (overlapping triangles) symbol mean anything significant?
-- In the Safehouse (Reservoir Station), there is a picture of a crack in a wall near a curving staircase. This is the wall in the chess puzzle room.
-- In the Safehouse, there is a picture of security monitors, with A on one (second from top-right) with the note "delete it!" written next to it. This corresponds to a view of the Archives. ???
-- Which room corresponds to the Aquarium setup with two benches, two urns, and a chair?
 - The Closed Exhibit: what about being there at 1:30?
 - East gate access on the grounds?
 - The Den clocks have markings on them suggesting that the following times may be significant:
@@ -37,7 +29,7 @@
   - 1:55?? (the V is a little ambiguous)
 - If "major" means "short name" in Erajan, what does "minor" mean?
 - The birdbath by the outdoor entrance to the Basement has flagstones arranged around it in a circle of 8, with an outer circle of 16 stones. This seems significant. (planet clues from 3rd era map?)
-- There may be a releationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
+- There may be a relationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
 
 ### Current open access problems
 
