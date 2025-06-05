@@ -2,12 +2,13 @@
 
 ### Run goals
 
-- Get a power hammer with the Greenhouse and knock that wall down
 - Find more information about the countries of the world for sigil puzzle reasons
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Fill in the rest of the Chess room letters puzzle.
-- Find the 8th sanctum key behind the "last door of eight"
+- Find the 8th sanctum key behind the "last door of eight" (note: figure out what the "last door of eight" is)
 - Call it a day in the Bunk Room and check the Tomb the next day
+- Get the Red Crown to the throne room
+- Get the Blue Crown to the throne room
 
 ### Unanswered Questions
 
@@ -392,6 +393,10 @@ Sanctum key locations:
   - Draft Music Room in 9th rank?
 
 "And the last key is waiting, behind the last door of eight."
+  - Possibilities:
+    - Hall of Mirrors (4 doors x 2 -> 8 doors, and we still don't know what the "upstairs" button does)
+    - Great Hall (has eight doors technically, but so far as I can tell we've already found everything there is in this room)
+    - Room 8 shenanigans (alternate solution to the puzzle? something behind the ruminate puzzle in the Gallery?)
 
 These rooms each have a mechanism for the sigil of one realm.
 

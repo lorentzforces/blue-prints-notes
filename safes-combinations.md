@@ -1,4 +1,4 @@
-# Dates, Combinations, & Safes
+# Safes & Combinations
 
 | Location     | Combination | Letter | Misc. Notes                                       |
 |--------------|-------------|--------|---------------------------------------------------|
@@ -11,27 +11,7 @@
 | Upper Cogs   | MAY8        | #1     | 8 = only number MAY = only month w/ given letters |
 | Drfting Stdio| 1108        | #5     | Gates in calendar picture / November              |
 
-The drafting room shows that there is a safe in the room with a built-in writing desk. The safe is to the left of the desk.
-
 > _NOTE: Dates are MM-DD-YYYY, years omitted (MM-DD) where unknown._
-
-### Significant and Non-significant Dates
-
-**Definitely significant**
-- ✓ 11-28 (Date carved on apple tree)
-- ✓ 12-25 (Christmas Day, receipt of Boudoir safe)
-
-**Maybe significant**
-- 04-12 (rejection letter from Ruffington Red Publishing to Marion Marigold)
-- 08-22-1985 (_Swim Bird_ awarded with prize)
-- 01-27-1986 (Marion Marigold profile mentioning _Swim Bird_ success and _Red Prince_ political controversy)
-- 11-11-1986 (Marion Marigold & others detained after Trinsdale bombing)
-- 02-22-1987 (Story about disappearance of Mary Matthew Jones _aka_ Marion Marigold)
-- 02-20-1987 (Day Marion/Mary disappeared, a Friday)
-- 10-06 (Fenn Aries Prince Leerson coup vs Desilets IV after passing of Desilets III the prior day)
-- 11-04-1993 (Day H.S. Sinclair died, Wednesday)
-- 11-07-1993 (Day 1, Saturday)
-- 01-28-1979 (Date of Simon Jones' birth)
 
 ### Art letter puzzle message:
 
