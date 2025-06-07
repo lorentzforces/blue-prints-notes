@@ -6,9 +6,9 @@
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Fill in the rest of the Chess room letters puzzle.
 - Find the 8th sanctum key behind the "last door of eight" (note: figure out what the "last door of eight" is)
-- Call it a day in the Bunk Room and check the Tomb the next day
+- ~Call it a day in the Bunk Room~ and check the Tomb the next day
 - Get the Red Crown to the throne room
-- Get the Blue Crown to the throne room
+- Clear more crates
 
 ### Unanswered Questions
 
@@ -310,6 +310,16 @@ Broken wall puzzle:
 | T |   |   |
 | L |   |   |
 | E |   |   |
+
+CA  T
+
+from cloister statue:
+```
+CX
+
+
+ET
+```
 
 ### Billiard Room
 
