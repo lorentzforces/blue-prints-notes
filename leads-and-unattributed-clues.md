@@ -6,7 +6,6 @@
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Fill in the rest of the Chess room letters puzzle.
 - Find the 8th sanctum key behind the "last door of eight" (note: figure out what the "last door of eight" is)
-- ~Call it a day in the Bunk Room~ and check the Tomb the next day
 - Get the Red Crown to the throne room
 - Clear more crates
 
@@ -405,8 +404,8 @@ Sanctum key locations:
 "And the last key is waiting, behind the last door of eight."
   - Possibilities:
     - Hall of Mirrors (4 doors x 2 -> 8 doors, and we still don't know what the "upstairs" button does)
-    - Great Hall (has eight doors technically, but so far as I can tell we've already found everything there is in this room)
     - Room 8 shenanigans (alternate solution to the puzzle? something behind the ruminate puzzle in the Gallery?)
+    - Great Hall (has eight doors technically, but so far as I can tell we've already found everything there is in this room)
 
 These rooms each have a mechanism for the sigil of one realm.
 
@@ -454,7 +453,7 @@ Several rooms are represented in the tanks:
 Her diary, room of sleep with effects:
 - Her Ladyship's Chamber: Awoke following morning with 10 less steps but additional star in the sky
 - Guest Bedroom: Nothing special
-- Bunk Room: Family tomb grave had a flower on it
+- Bunk Room: Family tomb grave had a flower on it (gem flower)
 - Servant's Quarters: Half steps following day, with a bonus die
 - Master Bedroom: More steps than usual
 
