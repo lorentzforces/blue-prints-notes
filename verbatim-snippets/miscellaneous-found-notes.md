@@ -281,3 +281,14 @@ _symbol of Orinda Aries_
 _Depicts a cat standing on a "T" block reaching for two stacked blocks "C" and "A"_
 
 > _This may be reversed and relevant to the Chess wall letter puzzle, since the "T" is separate from the other two letters_
+
+### Antechamber Shrine Outer Room Note
+
+```
+STEADY IS THE SCEPTER
+DEADLY IS THE STONE
+HEAVY IS THE CROWN
+READY IS THE THRONE
+```
+
+> _has a picture of a sarcophogus at the bottom with plants around it_

@@ -6,7 +6,8 @@
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Fill in the rest of the Chess room letters puzzle.
 - Find the 8th sanctum key behind the "last door of eight" (note: figure out what the "last door of eight" is)
-- Get the Red Crown to the throne room
+  - Draft Mechinarium after an appropriate number of gear rooms
+- Get the Red Crown to the throne room (requires Throne Room & Closed Exhibit drafted on same day, loop available from Closed Exhibit)
 - Clear more crates
 
 ### Unanswered Questions
@@ -29,6 +30,17 @@
 - The birdbath by the outdoor entrance to the Basement has flagstones arranged around it in a circle of 8, with an outer circle of 16 stones. This seems significant. (planet clues from 3rd era map?)
 - There may be a relationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
 - Staff contracts are apparently available somehow in Room 46...
+- There are some dead-end blueprints in the directory with italicized words in them:
+  - "only": Foundation (not dead end)
+  - "Rotunda": Rotunda (not dead end)
+  - "always": Locker Room (not dead end)
+  - "or improve": Workshop (not dead end)
+  - "drafted": Coat Check
+  - "The Room Before": Antechamber (not dead end)
+  - "bequest": Room 46 (technically a dead end(?), doesn't have keyword)
+  - "laid to rest": Geist Bedroom
+  - "always": Lavatory
+  - "sacred hour": Clock Tower
 
 ### Current open access problems
 
@@ -406,6 +418,7 @@ Sanctum key locations:
     - Hall of Mirrors (4 doors x 2 -> 8 doors, and we still don't know what the "upstairs" button does)
     - Room 8 shenanigans (alternate solution to the puzzle? something behind the ruminate puzzle in the Gallery?)
     - Great Hall (has eight doors technically, but so far as I can tell we've already found everything there is in this room)
+    - Mechanarium (many doors with many gears)
 
 These rooms each have a mechanism for the sigil of one realm.
 
