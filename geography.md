@@ -37,7 +37,8 @@ Our "continent" (or island grouping): Orindia
   - Icon: Diamond
   - Color: Green
   - Flight transport
-  - Weather: wind (??)
+  - Weather: wind
+  - Culture: military
   - random fact: Ferther Nuance is further and smaller, part of Nuance(?)
 
 Western "continent": Moraven
@@ -137,6 +138,15 @@ Border
 
 ### Eight realms in eight months
 
+1. Orinda Aries
+1. Eraja
+1. Arch Aries
+1. Mora Jai
+1. Verra
+1. Corarica
+1. Nuance
+1. Fenn Aries
+
 - Started going South (postmarked Orinda Aries, Black Bridge)
 - Arch Aries comes immediately after another location on the same continent (probably Eraja)
 - Mora Jai comes after an ocean crossing
@@ -144,3 +154,4 @@ Border
 - Corarica comes immediately after Verra
 - Eraja does not have timing clues, but puddles and ponds are mentioned
 - Fenn Aries is last
+- Nuance is after Corarica and Mora Jai (and may be last before Fenn Aries)

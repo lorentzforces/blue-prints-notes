@@ -4,7 +4,7 @@
 
 > _NOTE: there were four conspirators in the heist_
 
-#### Marion Matthew Jones
+#### Marion Mathew Jones
 
 Née Epsen
 
@@ -31,10 +31,8 @@ Anne Babbage
 - head of house
 - Account: BabbA (personnel admin)
 
-H---(?) Routa
+Hartley Routa
 - temporary admin key
-
-??? Hartley
 - valet/butler, willed the Lake Trinsdale house
 
 Randolph Moore (?)

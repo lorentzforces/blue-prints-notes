@@ -2,23 +2,16 @@
 
 ### Run goals
 
-- Find more information about the countries of the world for sigil puzzle reasons
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Fill in the rest of the Chess room letters puzzle.
-- Find the 8th sanctum key behind the "last door of eight" (note: figure out what the "last door of eight" is)
-  - Draft Mechinarium after an appropriate number of gear rooms
-- Get the Red Crown to the throne room (requires Throne Room & Closed Exhibit drafted on same day, loop available from Closed Exhibit)
 - Clear more crates
+- Get information on angel names to solve the ordering of angels (again)
 
 ### Unanswered Questions
 
 - Are doors with keyholes just _potentially_ locked, and doors without keyholes never locked?
 - The insurgent group that these people seemed to be a part of was called "The Children of Black Water," which seems to be a parallel name to "Blackbridge" being the network and grotto name. Their group is also called RLCF - what does that stand for?
-- Who the fuck is Samantha Hayes?
-  - _a.k.a_ Marion Matthew Jones neé Epsen _a.k.a._ Marion Marigold _a.k.a._ Jean Ribbon
-  - Two Fenn Aries passports found so far for "Jean Ribbon" and "Samantha Hayes"
 - Does the three-mountain (overlapping triangles) symbol mean anything significant?
-- The Closed Exhibit: what about being there at 1:30?
 - East gate access on the grounds?
 - The Den clocks have markings on them suggesting that the following times may be significant:
   - 3:45 (--)
@@ -28,7 +21,6 @@
   - 1:55?? (the V is a little ambiguous)
 - If "major" means "short name" in Erajan, what does "minor" mean?
 - The birdbath by the outdoor entrance to the Basement has flagstones arranged around it in a circle of 8, with an outer circle of 16 stones. This seems significant. (planet clues from 3rd era map?)
-- There may be a relationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
 - Staff contracts are apparently available somehow in Room 46...
 - There are some dead-end blueprints in the directory with italicized words in them:
   - "only": Foundation (not dead end)
@@ -41,6 +33,9 @@
   - "laid to rest": Geist Bedroom
   - "always": Lavatory
   - "sacred hour": Clock Tower
+- Sacred hour = 1:30
+- Original drafts of _A New Clue_ and _Red Prince_ are now available... somewhere
+- There may be a relationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
 
 ### Current open access problems
 
@@ -91,7 +86,6 @@
 
 - checkout system is another "holdover" mechanic where the results is available after the end of that day
 - book selection menu appears to be the same no matter what
-
 
 #### _A New Clue_
 
@@ -346,12 +340,6 @@ Colors/operators
 - Business card with teapot depicted on stand, "Hundred Bells" over it, handwritten note says "Sandy Heights 5 PM"
   - Hundred Bells Tea Room is near Trinsdale Lake, and is open to the public for lunch on Mondays and Fridays
 
-### List of Staff
-
-- Anne Babbage
-- ??? Routa
-- ??? Hartley
-
 ### Gallery
 
 Contents are as follows:
@@ -377,11 +365,11 @@ Four(ish) busts:
 
 Rough map of the world with 8 numbered tacks (1-8) and a handwritten note "8 realms in 8 months." Notably, there are only 7 interactable countries on this map. This may mean that both Orinda Aries and Fenn Aries need to be represented in the solution (in the same location).
 
-The top of the map (above the handwritten bit) may be the arch-shaped realm icon.
+> _This is solved, see the geography doc._
 
 The bookshelf has a miniature red wagon with a rose and an apple in it (reference to the Gallery piece?)
 
-The fireplace has the realm icons over the top of it in this order: ticket, pentagon, hourglass, mountain, V, diagonal jigsaw, arch, diamond. Placing pins on the map in this room in that order corresponding to the countries did not appear to do anything.
+The fireplace has the realm icons over the top of it in this order: ticket, pentagon, hourglass, mountain, V, diagonal jigsaw, arch, diamond.
 
 ### Inner Sanctum Rooms
 
@@ -391,6 +379,7 @@ Sanctum key locations:
   - Located in Room 46
 
 ✓ "The second locked tight in the vault of a bank,"
+  - no shit
 
 ✓ "The third is high up, among all the clocks,"
   - Clock Tower
@@ -408,17 +397,13 @@ Sanctum key locations:
   - The Throne Room is now an available blueprint
 
 ✓ "The sixth in a station, left by one of your own,"
-  - Safehouse acessible via
+  - Safehouse acessible via reservoir boat @ 6 pips of water
 
 ✓ "The seventh is major if you draft it quite late,"
-  - Draft Music Room in 9th rank?
+  - Draft Music Room in 9th rank
 
 "And the last key is waiting, behind the last door of eight."
-  - Possibilities:
-    - Hall of Mirrors (4 doors x 2 -> 8 doors, and we still don't know what the "upstairs" button does)
-    - Room 8 shenanigans (alternate solution to the puzzle? something behind the ruminate puzzle in the Gallery?)
-    - Great Hall (has eight doors technically, but so far as I can tell we've already found everything there is in this room)
-    - Mechanarium (many doors with many gears)
+  - Mechanarium (many doors with many gears)
 
 These rooms each have a mechanism for the sigil of one realm.
 
@@ -444,10 +429,16 @@ For a given star count, the constellations seen are deterministic. I'm not gonna
 
 ### Angels
 
-- Mila: Maid, broom
 - Orinda: Royalty, scepter
-- Joya: Cook
+- Lydia
 - Rynna: Farmer, hoe
+- Joya: Cook
+- Dauja
+- Veia
+- Mila: Maid, broom
+- Draxus: Death, obvious implement
+
+Unknown representations:
 - ???: Chimney sweep, duster, top hat
 - ???: Rider, crop
 - ???: Rancher, pitchfork
@@ -461,6 +452,8 @@ Several rooms are represented in the tanks:
 - Laundry (X in front of middle WASHING machine (top-load))
 - Corridor
 
+> _This led to the filing cabinet keys._
+
 ### Her Ladyship's Chamber
 
 Her diary, room of sleep with effects:
@@ -468,6 +461,6 @@ Her diary, room of sleep with effects:
 - Guest Bedroom: Nothing special
 - Bunk Room: Family tomb grave had a flower on it (gem flower)
 - Servant's Quarters: Half steps following day, with a bonus die
-- Master Bedroom: More steps than usual
+- Master Bedroom: More steps than usual (double?)
 
-Additionally there is a map of the west grounds at the back of the book, with what _appears_ to be a highlighted north corner of the space where the shed is
+Antechamber shown in outer room (leads to special shrine with note)
