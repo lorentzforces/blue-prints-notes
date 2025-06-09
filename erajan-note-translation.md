@@ -22,7 +22,7 @@ House Sinclair wihout you. House Epsen without you. Forget your _ein_ north.
 
 > Uldjorjeari..Uldarei ovissfennvo. Uldeinjorovo.
 
-Your name _jeari_ .. Your future toward south _fenn_ away. Your _ein_ name _ovo_ (toward + away?)
+Your name is Je Ari .. Your future toward south _fenn_ away. Your _ein_ name _ovo_ (toward + away?)
 
 > Overaja. Oviss nevarei.
 

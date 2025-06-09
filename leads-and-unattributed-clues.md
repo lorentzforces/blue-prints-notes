@@ -6,7 +6,6 @@
 - Fill in the rest of the Chess room letters puzzle.
 - Clear more crates
 - Get information on angel names to solve the ordering of angels (again)
-- Draft an Archive (currently rare) and use the new filing cabinet key in it
 
 ### Unanswered Questions
 
@@ -465,3 +464,20 @@ Her diary, room of sleep with effects:
 - Master Bedroom: More steps than usual (double?)
 
 Antechamber shown in outer room (leads to special shrine with note)
+
+### Numeric Cores
+
+- Take any number with four or more digits. Withotu changing the sequence, split that number into four smaller numbers (ex: `86455` becomes `8` `6` `45` `5`)
+- Next, assign each a different color, resulting in a valid mathematicla equation that produces the smalles whole number possible. The first number should always be assigned teal to begin with a postive number. (ex: `+ 8 - 6 x 45 / 5`)
+- If the result is a number with more than three digits, repeat the above process. The final number you obtain that is less than four digits is considered the "numeric core" of the larger number. (ex: `18`)
+
+Examples:
+- `86455`
+- Becomes `8`, `6`, `45`, `5`
+- Becomes `+ 8 , - 6, x 45, / 8`
+- Core = `18`
+
+- `3614`
+- Becomes `3`, `6`, `1`, `4`
+- Becomes `+ 3, x 6, / 1, - 4`
+- Core = `14`
