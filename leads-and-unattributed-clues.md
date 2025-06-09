@@ -6,6 +6,7 @@
 - Fill in the rest of the Chess room letters puzzle.
 - Clear more crates
 - Get information on angel names to solve the ordering of angels (again)
+- Draft an Archive (currently rare) and use the new filing cabinet key in it
 
 ### Unanswered Questions
 
