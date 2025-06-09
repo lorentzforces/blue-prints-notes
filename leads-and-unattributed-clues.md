@@ -433,7 +433,7 @@ For a given star count, the constellations seen are deterministic. I'm not gonna
 - Lydia
 - Rynna: Farmer, hoe
 - Joya: Cook
-- Dauja
+- Dauja (last day? yesterday?)
 - Veia
 - Mila: Maid, broom
 - Draxus: Death, obvious implement

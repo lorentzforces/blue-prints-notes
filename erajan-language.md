@@ -23,9 +23,17 @@ Known:
 - RAA (very very)
 - SEI (sea/ocean)
 
-Tentative or unknown:
+Tentative or unknown (snippets or known discrete elements):
 - MORA (world?)
 - FENN
+- IRIS
+- [D]EIN
+- RA (AR?)
+- OVO (potentially OV + VO?)
+- JEARI
+- OD[D]
+
+> _Do double letters mean anything? Since all the directions end in a double letter, would a version of that word without the double letter mean anything? In other words, would "is" mean anything related to "south" when "iss" means south in some context?
 
 ### Affixes
 
@@ -60,4 +68,7 @@ EL/LE can be paired with a verb, in which case it can mean "I will" or "I won't"
 - "the branches of the tree are old" - _ven treiven_ (the ends of the tree are old)
 - "the trunk of the tree is small" - _manevtrei_ (the small start of the tree)
 
-ajlor = hello? (first word?)
+ajlor = hello ("first word")
+lorja = goodbye ("last word")
+
+> _Does the letter "d" mean something when included inside of a word? In the Erajan note left in the tomb, the letter "d" seems to be some kind of conjunction between other elements inside of a full word. It may be possessive, in which case "eld" means "my" and "uld" means "yours".
