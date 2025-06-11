@@ -2,9 +2,9 @@
 
 ### Run goals
 
-- Fill in the rest of the Chess room letters puzzle.
-- Clear more crates
+- Get a power hammer to smash the next hidden hallway door (broken lever in coat check)
 - Get information on angel names to solve the ordering of angels (again)
+- Fill in the rest of the Chess room letters puzzle.
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 
 ### Unanswered Questions
@@ -457,12 +457,11 @@ For a given star count, the constellations seen are deterministic. I'm not gonna
 - Rynna: Farmer, hoe
 - Joya: Cook
 - Dauja (last day? yesterday?)
-- Veia
+- Veia: Chimney sweep, duster, top hat
 - Mila: Maid, broom
 - Draxus: Death, obvious implement
 
 Unknown representations:
-- ???: Chimney sweep, duster, top hat
 - ???: Rider, crop
 - ???: Rancher, pitchfork
 
