@@ -2,10 +2,10 @@
 
 ### Run goals
 
-- Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Fill in the rest of the Chess room letters puzzle.
 - Clear more crates
 - Get information on angel names to solve the ordering of angels (again)
+- Get your academic shit together, draft 9 Classrooms, and finish the final exam
 
 ### Unanswered Questions
 
@@ -309,21 +309,44 @@ Broken wall puzzle:
 
 | 1 | 2 | 3 |
 |---|---|---|
-| C | A | T |
+| C | I | X |
 | A |   |   |
-| S |   |   |
-| T |   |   |
-| L |   |   |
-| E |   |   |
+| S | I | X |
+| T | O | R |
+| L | O |   |
+| E |   | T |
 
-CA  T
+from kennel:
+```
+C
+A
+
+
+ T
+```
+
+from server room post-it:
+```
+ I
+
+ I
+ O
+ O
+```
+
+from locker room note:
+```
+SIX
+ OR
+ O
+```
 
 from cloister statue:
 ```
-CX
+C X
 
 
-ET
+E T
 ```
 
 ### Billiard Room
@@ -468,7 +491,7 @@ Antechamber shown in outer room (leads to special shrine with note)
 ### Numeric Cores
 
 - Take any number with four or more digits. Withotu changing the sequence, split that number into four smaller numbers (ex: `86455` becomes `8` `6` `45` `5`)
-- Next, assign each a different color, resulting in a valid mathematicla equation that produces the smalles whole number possible. The first number should always be assigned teal to begin with a postive number. (ex: `+ 8 - 6 x 45 / 5`)
+- Next, assign each a different color, resulting in a valid mathematical equation that produces the smallest whole number possible. The first number should always be assigned teal to begin with a postive number. (ex: `+ 8 - 6 x 45 / 5`)
 - If the result is a number with more than three digits, repeat the above process. The final number you obtain that is less than four digits is considered the "numeric core" of the larger number. (ex: `18`)
 
 Examples:
