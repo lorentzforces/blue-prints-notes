@@ -31,6 +31,10 @@ _(found in a hallway)_
 _(found in Laboratory)_
 > EFFECTIVE IMMEDIATELY, **ELECTRONIC MAIL** CAN ONLY BE ACCESSED VIA THE SECURITY TERMINAL.
 
+> THERE ARE FOUR DIFFERENT METHODS TO ROTATE ROOMS
+
+> THERE IS A LETTER MISSING.
+
 ### Green memos
 
 _(Found in the Servant's Quarters, likely Hartley's room. This implies that this statement is false.)_
