@@ -35,6 +35,8 @@ _(found in Laboratory)_
 
 > THERE IS A LETTER MISSING.
 
+> THE LARGEST PLANET IN THE SKY IS NAMED AFTER THE PARAGON OF ASH
+
 ### Green memos
 
 _(Found in the Servant's Quarters, likely Hartley's room. This implies that this statement is false.)_
