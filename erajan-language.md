@@ -72,3 +72,7 @@ ajlor = hello ("first word")
 lorja = goodbye ("last word")
 
 > _Does the letter "d" mean something when included inside of a word? In the Erajan note left in the tomb, the letter "d" seems to be some kind of conjunction between other elements inside of a full word. It may be possessive, in which case "eld" means "my" and "uld" means "yours".
+
+### Unknown words
+
+- ajentor (first... something? in context is used to refer to an old man)

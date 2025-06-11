@@ -2,10 +2,10 @@
 
 ### Run goals
 
-- Get a power hammer to smash the next hidden hallway door (broken lever in coat check)
 - Get information on angel names to solve the ordering of angels (again)
 - Fill in the rest of the Chess room letters puzzle.
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
+- Figure out how to open the blue holly door
 
 ### Unanswered Questions
 
@@ -36,13 +36,8 @@
 - Sacred hour = 1:30
 - Original drafts of _A New Clue_ and _Red Prince_ are now available... somewhere
 - There may be a relationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
-
-### Current open access problems
-
-- Terminal in Blackbridge Grotto requires an "admin key" to log in
-  - First four letters of last name followed by first initial, 1st and 5th character capitalized)
-  - Still need to find a "higher admin" or hidden admin account for this terminal
-- the Precipice has an uninteractable, closed door
+- There is a blue holly door in the unknown tunnel - how does it open?
+- How do we get to the cave with swords and graves in it?
 
 ### Utility Closet
 
@@ -503,3 +498,9 @@ Examples:
 - Becomes `3`, `6`, `1`, `4`
 - Becomes `+ 3, x 6, / 1, - 4`
 - Core = `14`
+
+### Curse of Black Bridge
+
+- There is a cave with swords and graves (seen before in Alzara vision)
+- There is a stone effigy marking a grave in that cave
+- That effigy likely curses you to only have 12 steps left
