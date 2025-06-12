@@ -311,7 +311,7 @@ Broken wall puzzle:
 | S | I | X |
 | T | O | R |
 | L | O | R |
-| E |   | T |
+| E | T | T |
 
 from kennel:
 ```
