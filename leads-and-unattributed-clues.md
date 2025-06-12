@@ -2,10 +2,10 @@
 
 ### Run goals
 
-- Get information on angel names to solve the ordering of angels (again)
 - Fill in the rest of the Chess room letters puzzle.
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Figure out how to open the blue holly door
+- Check out _A New Clue_ again and see what is on the table in front of the maid and cook when they're getting interviewed by the detective.
 
 ### Unanswered Questions
 
@@ -19,7 +19,7 @@
   - 11:05 (V)
   - 12:55 (V)
   - 1:55?? (the V is a little ambiguous)
-- If "major" means "short name" in Erajan, what does "minor" mean?
+- If "major" means "short name" in Erajan, what does "minor" mean? (if anything)
 - The birdbath by the outdoor entrance to the Basement has flagstones arranged around it in a circle of 8, with an outer circle of 16 stones. This seems significant. (planet clues from 3rd era map?)
 - Staff contracts are apparently available somehow in Room 46...
 - There are some dead-end blueprints in the directory with italicized words in them:
@@ -38,6 +38,14 @@
 - There may be a relationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
 - There is a blue holly door in the unknown tunnel - how does it open?
 - How do we get to the cave with swords and graves in it?
+- Things that could use a closer look from the original manuscript of _A New Clue_:
+  - ✓ The Secret Passage (chess letters?)
+  - The Nook
+  - "Under beds?" (with a blue X underneath the word "beds")
+  - "Directory is a trajectory," when talking about Margle's directory which is "22 rooms short of completion"
+  - Candles in a room with a king? (or possible a rook?)
+- Related to the _A New Clue_ manuscript but also a found note: what does it mean for the treble clef to be "denoted in verse?" This seems like it might be a play on "inverse," but what the treble clef is used in relation to is a mystery - the music sheet notes don't seem to have any way that could be meaningful.
+- Is there any more meaning behind the two cuckoo clocks? (as in the note in the manuscript "CUCKOO TWO")
 
 ### Utility Closet
 
@@ -148,13 +156,7 @@ Corner Cases
 
 SIGNS: Route 8 (down?), Depart, Keep Left, To Tanner Fork, (right turn icon), dead end, record, each, stop, on the way
 
-Following metro map: (8) Royal Station -> (7) Angel Tower -> (3) Aries Crossing -> (10) Tanner Fork -> (1) Oris Train Hall -> (13) Dead End
-
-Memos on final page: "The suspect is minor" (blue), "The suspect is major" (red, handwritten), "The suspect is miner" (red, printed), followed by in white "the suspect is A. Key"
-
-If we take "A key" to be the position in the list of the letter A (in this book's cipher/ordering), that would be 10
-
-### Root Cellar
+Following metro map: (8) Royal Station -> (7) Angel Tower -> (3) Aries Crossing -> (10)
 
 - root cellar has a family tree of Mary Epsen and her ancestors
 
@@ -305,10 +307,10 @@ Broken wall puzzle:
 | 1 | 2 | 3 |
 |---|---|---|
 | C | I | X |
-| A |   |   |
+| A |   | D |
 | S | I | X |
 | T | O | R |
-| L | O |   |
+| L | O | R |
 | E |   | T |
 
 from kennel:
@@ -342,6 +344,14 @@ C X
 
 
 E T
+```
+
+from back of secret passage door:
+```
+  D
+
+ O
+ OR
 ```
 
 ### Billiard Room
@@ -445,20 +455,18 @@ For a given star count, the constellations seen are deterministic. I'm not gonna
 
 - Station platform wall to the left (by the "Platform 8" sign) seems as if there might be something behind it.
 
-### Angels
+### Angels/Paragons
 
 - Orinda: Royalty, scepter
-- Lydia
+- Lydia: Rider, crop
 - Rynna: Farmer, hoe
 - Joya: Cook
-- Dauja (last day? yesterday?)
+- Dauja: Rancher, pitchfork
 - Veia: Chimney sweep, duster, top hat
 - Mila: Maid, broom
 - Draxus: Death, obvious implement
 
-Unknown representations:
-- ???: Rider, crop
-- ???: Rancher, pitchfork
+The above order opens the alcove behind the Draxus statue, which contains the original manuscripts of _The Red Prince_ and _A New Clue_.
 
 ### Aquarium
 
