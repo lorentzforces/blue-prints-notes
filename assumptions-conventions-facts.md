@@ -59,6 +59,8 @@ Box game invariants:
 - at LEAST one box label is false
 - ONLY one box is not empty
 
+The full room directory contains 110 rooms (46 base rooms + 8 categories of 8 rooms each).
+
 ### Room drafting limitations:
 
 West wing ONLY

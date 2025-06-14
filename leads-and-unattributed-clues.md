@@ -42,7 +42,7 @@
   - ✓ The Secret Passage (chess letters?)
   - The Nook
   - "Under beds?" (with a blue X underneath the word "beds")
-  - "Directory is a trajectory," when talking about Margle's directory which is "22 rooms short of completion"
+  - "Directory is a trajectory," when talking about Margle's directory which is "22 rooms short of completion" (which would be 110 - 22 = 88)
   - Candles in a room with a king? (or possible a rook?)
 - Related to the _A New Clue_ manuscript but also a found note: what does it mean for the treble clef to be "denoted in verse?" This seems like it might be a play on "inverse," but what the treble clef is used in relation to is a mystery - the music sheet notes don't seem to have any way that could be meaningful.
 - Is there any more meaning behind the two cuckoo clocks? (as in the note in the manuscript "CUCKOO TWO")
