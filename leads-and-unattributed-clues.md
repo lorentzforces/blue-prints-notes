@@ -5,7 +5,7 @@
 - Fill in the rest of the Chess room letters puzzle.
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Figure out how to open the blue holly door
-- Solve a chess puzzle with a run layout and swap the king & rook pieces
+- Solve a chess puzzle with a run layout and take the rook blessing while having the king blessing
 
 ### Unanswered Questions
 
@@ -45,6 +45,13 @@
   - Candles in a room with a king (possibly a rook), a statue of Orinda (scepter angel), and assorted stone blocks (maybe rubble)
 - Related to the _A New Clue_ manuscript but also a found note: what does it mean for the treble clef to be "denoted in verse?" This seems like it might be a play on "inverse," but what the treble clef is used in relation to is a mystery - the music sheet notes don't seem to have any way that could be meaningful.
 - Is there any more meaning behind the two cuckoo clocks? (as in the note in the manuscript "CUCKOO TWO")
+- How does one access surveillance footage from the security terminal?
+  - Tapes around the terminal:
+    - C 1 2
+    - C 2 3
+    - B 1 2
+    - B 4 5
+    - A 5 6
 
 ### Utility Closet
 
