@@ -5,7 +5,7 @@
 - Fill in the rest of the Chess room letters puzzle.
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Figure out how to open the blue holly door
-- Check out _A New Clue_ again and see what is on the table in front of the maid and cook when they're getting interviewed by the detective.
+- Solve a chess puzzle with a run layout and swap the king & rook pieces
 
 ### Unanswered Questions
 
@@ -34,16 +34,15 @@
   - "always": Lavatory
   - "sacred hour": Clock Tower
 - Sacred hour = 1:30
-- Original drafts of _A New Clue_ and _Red Prince_ are now available... somewhere
 - There may be a relationship between the term "dead end" used in _A New Clue_ and the Tomb (see associated note from the tomb).
 - There is a blue holly door in the unknown tunnel - how does it open?
 - How do we get to the cave with swords and graves in it?
 - Things that could use a closer look from the original manuscript of _A New Clue_:
   - ✓ The Secret Passage (chess letters?)
   - The Nook
-  - "Under beds?" (with a blue X underneath the word "beds")
+  - "Under beds and in nooks" (with a blue X underneath the word "beds", and "nooks" is underlined with a note pointing to it which says "too obvious?")
   - "Directory is a trajectory," when talking about Margle's directory which is "22 rooms short of completion" (which would be 110 - 22 = 88)
-  - Candles in a room with a king? (or possible a rook?)
+  - Candles in a room with a king (possibly a rook), a statue of Orinda (scepter angel), and assorted stone blocks (maybe rubble)
 - Related to the _A New Clue_ manuscript but also a found note: what does it mean for the treble clef to be "denoted in verse?" This seems like it might be a play on "inverse," but what the treble clef is used in relation to is a mystery - the music sheet notes don't seem to have any way that could be meaningful.
 - Is there any more meaning behind the two cuckoo clocks? (as in the note in the manuscript "CUCKOO TWO")
 
@@ -307,7 +306,7 @@ Broken wall puzzle:
 | 1 | 2 | 3 |
 |---|---|---|
 | C | I | X |
-| A |   | D |
+| A | D | D |
 | S | I | X |
 | T | O | R |
 | L | O | R |
