@@ -339,6 +339,12 @@ Broken wall puzzle:
 | L | O | R |
 | E | T | T |
 
+"CIX" may be a roman numeral, in which case it would represent 109
+
+"add six to R"?
+
+"lor" and "ett" are both Erajan words, meaning "word" and "east" respectively
+
 from kennel:
 ```
 C
