@@ -2,10 +2,9 @@
 
 ### Run goals
 
-- Fill in the rest of the Chess room letters puzzle.
+- Figure out the meaning of the fully-filled-in chess cipher
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
 - Figure out how to open the blue holly door
-- Solve a chess puzzle with a run layout and take the rook blessing while having the king blessing
 
 ### Unanswered Questions
 
@@ -52,6 +51,27 @@
     - B 1 2
     - B 4 5
     - A 5 6
+
+### Behind Chess Castle Chamber
+
+Mora Jai boxes:
+
+"IN ARIES COURT WHERE THE KING NOW LAYS"
+
+"ON THE SACRED HOUR THAT TIMEWORN PHRASE"
+
+"WILL A YOUTH APPROACH WITH EMPTY ARMS"
+
+"WITHOUT GIFTS NOR GOLD NOR MANNERED CHARMS"
+
+"THE BLACK KEY IS LYING WITH THE LAST KING OF EIGHT"
+
+"A PATIENT FIGURE A RECKONING GREAT"
+
+"A SULLEN CROSS AS FIVE STARS ALIGN"
+
+"AND IN SKY ABOVE A BRILLIANT SIGN"
+
 
 ### Utility Closet
 
