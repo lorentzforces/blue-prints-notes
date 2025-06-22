@@ -22,6 +22,8 @@ Known:
 - JOR (name)
 - RAA (very very)
 - SEI (sea/ocean)
+- ROT (clockwise)
+- TOR (counterclockwise)
 
 Tentative or unknown (snippets or known discrete elements):
 - MORA (world?)

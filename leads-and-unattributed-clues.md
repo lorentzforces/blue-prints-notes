@@ -2,8 +2,8 @@
 
 ### Run goals
 
-- Figure out the meaning of the fully-filled-in chess cipher
 - Get your academic shit together, draft 9 Classrooms, and finish the final exam
+- Figure out what the black Royal Key of Aries goes to
 - Figure out how to open the blue holly door
 
 ### Unanswered Questions
@@ -18,6 +18,7 @@
   - 11:05 (V)
   - 12:55 (V)
   - 1:55?? (the V is a little ambiguous)
+  - Note: the bulletin board in the Security room also has arrows in configurations on it
 - If "major" means "short name" in Erajan, what does "minor" mean? (if anything)
 - The birdbath by the outdoor entrance to the Basement has flagstones arranged around it in a circle of 8, with an outer circle of 16 stones. This seems significant. (planet clues from 3rd era map?)
 - Staff contracts are apparently available somehow in Room 46...
@@ -72,6 +73,11 @@ Mora Jai boxes:
 
 "AND IN SKY ABOVE A BRILLIANT SIGN"
 
+Likely conditions:
+- empty inventory, no blessing, no resources (or at least no gold)
+- sacred hour (1:30)
+- the cross constellation must have been observed that day
+- ????? (profit?)
 
 ### Utility Closet
 
@@ -301,10 +307,6 @@ There may be a releationship between the term "dead end" used in _A New Clue_ an
 - has a moon shrine symbol accessible via brick wall switch
 - has a sigil for Orinda Aries accessible via brick wall switch
 
-### Greenhouse
-
-- there is a suspicious door-looking indentation in the brick wall (seems to match similar in Secret Garden)
-
 ### The Precipice
 
 Chess puzzle:
@@ -344,6 +346,9 @@ Broken wall puzzle:
 "add six to R"?
 
 "lor" and "ett" are both Erajan words, meaning "word" and "east" respectively
+"tor" likely means "counterclockwise"
+
+_cix_ add six counterclockwise word east
 
 from kennel:
 ```
