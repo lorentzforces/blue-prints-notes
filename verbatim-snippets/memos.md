@@ -50,6 +50,12 @@ _(den)_
 
 > SURVEILLANCE RECORDINGS CAN ONLY BE ACCESSED VIA THE TERMINAL LOCATED IN SECURITY
 
+> S.H.S WAS BORN THREE YEARS AFTER H.S.S.
+
+> THE LICENSE PLATE ON THIS CAR IS AN ACRONYM.
+
+_the license plate on the car reads "SWNSNG"_
+
 ### Red memos
 
 _(found in Conference Room)_

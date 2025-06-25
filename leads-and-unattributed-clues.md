@@ -45,13 +45,6 @@
   - Candles in a room with a king (possibly a rook), a statue of Orinda (scepter angel), and assorted stone blocks (maybe rubble)
 - Related to the _A New Clue_ manuscript but also a found note: what does it mean for the treble clef to be "denoted in verse?" This seems like it might be a play on "inverse," but what the treble clef is used in relation to is a mystery - the music sheet notes don't seem to have any way that could be meaningful.
 - Is there any more meaning behind the two cuckoo clocks? (as in the note in the manuscript "CUCKOO TWO")
-- How does one access surveillance footage from the security terminal?
-  - Tapes around the terminal:
-    - C 1 2
-    - C 2 3
-    - B 1 2
-    - B 4 5
-    - A 5 6
 
 ### Behind Chess Castle Chamber
 
@@ -188,7 +181,7 @@ Corner Cases
 
 SIGNS: Route 8 (down?), Depart, Keep Left, To Tanner Fork, (right turn icon), dead end, record, each, stop, on the way
 
-Following metro map: (8) Royal Station -> (7) Angel Tower -> (3) Aries Crossing -> (10)
+Following metro map: (8) Royal Station -> (7) Angel Tower -> (3) Aries Crossing -> (10) Tanner Fork -> (1) Oris Train Hall -> (13) Dead End
 
 - root cellar has a family tree of Mary Epsen and her ancestors
 
